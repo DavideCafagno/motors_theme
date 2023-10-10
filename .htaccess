@@ -1,0 +1,22 @@
+
+# BEGIN WordPress
+# Le direttive (linee) tra "BEGIN WordPress" e "END WordPress" sono
+# generate dinamicamente, e dovrebbero essere modificate solo tramite i filtri di WordPress.
+# Ogni modifica alle direttive tra questi marcatori verrà sovrascritta.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /motors_theme/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /motors_theme/index.php [L]
+</IfModule>
+
+# END WordPress
+php_value upload_max_filesize 500M
+php_value post_max_size 500M
+php_value memory_limit 256M
+php_value max_execution_time 300
+php_value max_input_time 300
+php_value max_input_vars 2500

@@ -1,0 +1,417 @@
+.home #wrapper .stm_rent_car_two_form_wrapper {
+    display: block;
+    width: 100%;
+    max-width: 620px;
+    height: 100%;
+    position: absolute;
+    top: 39.4%;
+    left: 60px;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form {
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    height: auto;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    position: relative;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form h3 {
+    margin-bottom: 21px;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form form {
+    width: 100%;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    background-color: white;
+    box-shadow: 14.721px 16.349px 60px 0px rgba(0, 0, 0, 0.15);
+    height: 64px;
+    width: 100%;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap.show-return-office .stm_pickup_location {
+    display: block;
+    opacity: 1;
+    width: 24%;
+    overflow: visible;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_pickup_location {
+    display: block;
+    position: relative;
+    border-right: 1px solid #f3f3f3;
+    width: 50%;
+    margin-top: 10px;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_pickup_location i {
+    position: absolute;
+    top: 13px;
+    left: 20px;
+    font-size: 16px;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_pickup_location .select2-container--default .selection .select2-selection--single {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -ms-flex-align: center;
+    align-items: center;
+    border: none;
+    border-radius: 0;
+    height: 44px;
+    line-height: 54px;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_pickup_location .select2-container--default .selection .select2-selection--single .select2-selection__rendered {
+    padding-left: 40px;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 700;
+    white-space: normal;
+    line-height: 15px;
+    height: auto;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_pickup_location .select2-container--default .selection .select2-selection--single .select2-selection__arrow b:before {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_pickup_location.stm_error .select2-container--default .selection .select2-selection--single .select2-selection__rendered,
+          .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_pickup_location.stm_error i {
+    color: #ff0000 !important;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_drop_location {
+    display: none;
+    overflow: hidden;
+    opacity: 0;
+    transition: all .2s ease-in-out;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input {
+    display: block;
+    border-right: 1px solid #f3f3f3;
+    width: 52%;
+    margin-top: 8px;
+    position: relative;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input .dateTimeRangeWrap {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    width: 100%;
+    position: absolute;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input .dateTimeRangeWrap .start-dt-wrap, .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input .dateTimeRangeWrap .end-dt-wrap {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-wrap: nowrap;
+    flex-wrap: nowrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    position: relative;
+    width: 50%;
+    overflow: hidden;
+    padding: 10px 10px 10px 20px;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input .dateTimeRangeWrap .start-dt-wrap i, .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input .dateTimeRangeWrap .end-dt-wrap i {
+    font-size: 16px;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input .dateTimeRangeWrap .start-dt-wrap .rent-date-text-holder, .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input .dateTimeRangeWrap .end-dt-wrap .rent-date-text-holder {
+    display: block;
+    font-size: 12px;
+    font-weight: 700;
+    white-space: normal;
+    line-height: 15px;
+    text-transform: uppercase;
+    padding-right: 20px;
+    padding-left: 5px;
+    z-index: 0;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input .dateTimeRangeWrap .start-dt-wrap.stm_error i, .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input .dateTimeRangeWrap .start-dt-wrap.stm_error .rent-date-text-holder, .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input .dateTimeRangeWrap .end-dt-wrap.stm_error i, .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input .dateTimeRangeWrap .end-dt-wrap.stm_error .rent-date-text-holder {
+    color: #ff0000;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input .stm_date_input input[type='text'] {
+    background-color: transparent;
+    border: none;
+    padding-left: 30px;
+    padding-right: 10px;
+    position: relative;
+    z-index: 3;
+    color: transparent;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .btn-search-wrap button {
+    height: 64px;
+    box-shadow: none;
+    border-radius: 0;
+    padding: 0 40px;
+    background: #1e81f6;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .btn-search-wrap button i {
+    font-size: 20px;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .btn-search-wrap button:hover, .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .btn-search-wrap button:active {
+    top: 0;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .prod-checkbox-wrap {
+    padding-top: 14px;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .prod-checkbox-wrap label {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .prod-checkbox-wrap div.checker {
+    margin-top: 3px;
+    margin-right: 2px !important;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .prod-checkbox-wrap div.checker span {
+    width: 12px;
+    height: 12px;
+    background: none;
+    border: 1px solid #5a5a5a;
+    border-radius: 3px;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .prod-checkbox-wrap div.checker span.checked:before {
+    content: '\e912';
+    display: block;
+    width: auto;
+    height: 8px;
+    line-height: 8px;
+    font-family: 'stm-car-rental';
+    font-size: 6px;
+    position: absolute;
+    top: 2px;
+    left: 2px;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .form-btn-wrap {
+    display: block;
+    position: absolute;
+    bottom: 2px;
+    right: 15px;
+}
+
+.home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .form-btn-wrap button {
+    background: none;
+    color: #1e81f6 !important;
+    box-shadow: none;
+    padding: 0;
+    text-transform: capitalize;
+    font-weight: 400;
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .home #wrapper .stm_rent_car_two_form_wrapper {
+        max-width: 320px;
+        top: 23%;
+    }
+
+    .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap {
+        -ms-flex-direction: column;
+        flex-direction: column;
+        height: auto;
+        padding-top: 8px;
+    }
+
+    .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_pickup_location {
+        width: 100% !important;
+        margin-top: 0;
+    }
+
+    .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input {
+        width: 100%;
+        margin-top: 0;
+    }
+
+    .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input .stm_date_input {
+        height: 88px;
+    }
+
+    .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input .stm_date_input input[type='text'] {
+        height: 100%;
+    }
+
+    .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input .dateTimeRangeWrap {
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+
+    .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input .dateTimeRangeWrap .start-dt-wrap, .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input .dateTimeRangeWrap .end-dt-wrap {
+        width: 100%;
+        height: 44px;
+    }
+
+    .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .btn-search-wrap {
+        width: 100%;
+        padding-top: 8px;
+    }
+
+    .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .btn-search-wrap button {
+        width: 100%;
+        height: 50px;
+        line-height: 56px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .home #wrapper .stm_rent_car_two_form_wrapper {
+        height: auto;
+    }
+}
+
+@media (max-width: 991px) {
+    .home #wrapper .stm_rent_car_two_form_wrapper {
+        position: relative;
+        top: 80px;
+        padding-bottom: 300px;
+    }
+}
+
+@media (max-width: 768px) {
+    .home #wrapper .stm_rent_car_two_form_wrapper {
+        padding-bottom: 350px;
+        left: 30px;
+    }
+}
+
+@media (max-width: 767px) {
+    .home #wrapper .stm_rent_car_two_form_wrapper {
+        padding-bottom: 300px;
+    }
+}
+
+@media (max-width: 700px) {
+    .home #wrapper .stm_rent_car_two_form_wrapper {
+        max-width: 320px;
+        top: 80px;
+    }
+
+    .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap {
+        -ms-flex-direction: column;
+        flex-direction: column;
+        height: auto;
+        padding-top: 8px;
+    }
+
+    .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_pickup_location {
+        width: 96.5% !important;
+        border: 1px solid #e3e3e3;
+        margin: 0 5px 5px;
+    }
+
+    .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input {
+        width: 100%;
+        margin-top: 0;
+    }
+
+    .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input .stm_date_input {
+        height: 94px;
+    }
+
+    .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input .stm_date_input input[type='text'] {
+        height: 100%;
+    }
+
+    .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input .dateTimeRangeWrap {
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+
+    .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input .dateTimeRangeWrap .start-dt-wrap, .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .stm_date_time_input .dateTimeRangeWrap .end-dt-wrap {
+        width: 97%;
+        height: 44px;
+        border: 1px solid #e3e3e3;
+        margin: 0 5px 5px;
+    }
+
+    .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .btn-search-wrap {
+        width: 100%;
+        padding-top: 8px;
+    }
+
+    .home #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .reserve-form-wrap .fields-wrap .btn-search-wrap button {
+        width: 100%;
+        height: 50px;
+        line-height: 56px;
+    }
+}
+
+@media (max-width: 450px) {
+    .home #wrapper .stm_rent_car_two_form_wrapper {
+        top: 30px;
+        padding-bottom: 350px;
+    }
+}
+
+@media (max-width: 320px) {
+    .home #wrapper .stm_rent_car_two_form_wrapper {
+        top: 30px;
+        padding-bottom: 350px;
+        max-width: 300px;
+        left: 10px;
+    }
+}
+
+.rtl #wrapper .stm_rent_car_two_form_wrapper .stm_rent_car_two_form .form-btn-wrap {
+    right: inherit;
+    left: 15px;
+}

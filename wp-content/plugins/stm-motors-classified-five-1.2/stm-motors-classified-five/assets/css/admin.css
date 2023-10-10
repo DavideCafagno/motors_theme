@@ -1,0 +1,243 @@
+.stm_vehicles_listing_icon {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    cursor: pointer !important;
+}
+
+.stm_vehicles_listing_icon.stm_icon_given .stm-default-icon_ {
+    display: none !important;
+}
+
+.stm_vehicles_listing_icon .icon {
+    display: block;
+    width: 74px;
+    height: 74px;
+    margin-right: 20px;
+    background-color: #fff;
+    border: 1px solid #aaa;
+    text-align: center;
+}
+
+.stm_vehicles_listing_icon .icon img {
+    display: none;
+}
+
+.stm_vehicles_listing_icon .icon img.stm-default-icon_ {
+    display: inline-block;
+    margin-top: 22px;
+}
+
+.stm_vehicles_listing_icon .icon i {
+    display: block;
+    max-width: 50px;
+    width: auto;
+    margin: 0 auto;
+    overflow: hidden;
+    font-size: 26px;
+    line-height: 74px;
+}
+
+.stm_vehicles_listing_icon .stm_delete_icon,
+.stm_vehicles_listing_icon .stm_change_icon {
+    display: inline-block;
+    padding: 8px 18px;
+    margin: 0 10px 0 0;
+    background-color: #e5e5e5;
+    color: #0073aa;
+    overflow: hidden;
+    border-radius: 3px;
+    font-size: 14px;
+    transition: all 0.2s ease-in-out;
+    cursor: pointer;
+}
+
+.stm_vehicles_listing_icon .stm_delete_icon:hover,
+.stm_vehicles_listing_icon .stm_change_icon:hover {
+    background-color: #dadada;
+}
+
+.stm_vehicles_listing_icons {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 99999;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.2s ease;
+}
+
+.stm_vehicles_listing_icons .overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 9;
+}
+
+.stm_vehicles_listing_icons .inner {
+    margin-top: 60px;
+    position: absolute;
+    width: 60%;
+    height: 60%;
+    top: 12%;
+    left: 20%;
+    background: #fff;
+    z-index: 15;
+}
+
+.stm_vehicles_listing_icons .inner .scrollable-content {
+    height: 100%;
+    position: absolute;
+    width: 100%;
+    overflow-y: scroll;
+}
+
+.stm_vehicles_listing_icons .inner .stm_how_to_add {
+    position: absolute;
+    bottom: -72px;
+    left: 0;
+    height: 72px;
+    width: 100%;
+    background: #fff;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.stm_vehicles_listing_icons .inner .stm_how_to_add:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    content: "";
+    display: block;
+    height: 8px;
+    width: 100%;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.1) 100%);
+}
+
+.stm_vehicles_listing_icons .inner .stm_how_to_add a {
+    display: block;
+    position: relative;
+    top: 25px;
+    margin-left: 40px;
+    font-size: 14px;
+    color: #888888;
+}
+
+.stm_vehicles_listing_icons .inner .stm_how_to_add a i {
+    position: relative;
+    top: 2px;
+    left: 10px;
+}
+
+.stm_vehicles_listing_icons .inner td.stm-listings-pick-icon {
+    position: relative;
+    text-align: center;
+    cursor: pointer;
+}
+
+.stm_vehicles_listing_icons .inner td.stm-listings-pick-icon.stm-listings-stm-boats-icon-jet-sky, .stm_vehicles_listing_icons .inner td.stm-listings-pick-icon.stm-listings-stm-boats-icon-canoe, .stm_vehicles_listing_icons .inner td.stm-listings-pick-icon.stm-listings-stm-boats-icon-dinghy, .stm_vehicles_listing_icons .inner td.stm-listings-pick-icon.stm-listings-stm-boats-icon-yacht, .stm_vehicles_listing_icons .inner td.stm-listings-pick-icon.stm-listings-stm-boats-icon-sailboat, .stm_vehicles_listing_icons .inner td.stm-listings-pick-icon.stm-listings-stm-boats-icon-boat, .stm_vehicles_listing_icons .inner td.stm-listings-pick-icon.stm-listings-stm-service-icon-sales_pin {
+    display: none;
+}
+
+.stm_vehicles_listing_icons .inner td.stm-listings-pick-icon i {
+    display: block;
+    width: 27px;
+    height: 27px;
+    margin: 0 auto;
+    font-size: 17px;
+    line-height: 27px;
+    text-align: center;
+    overflow: hidden;
+    border-radius: 3px;
+}
+
+.stm_vehicles_listing_icons .inner td.stm-listings-pick-icon i.big_icon {
+    position: absolute;
+    top: -5px;
+    left: 5px;
+    width: 65px;
+    height: 65px;
+    font-size: 32px;
+    line-height: 65px;
+    text-align: center;
+    background-color: #fff;
+    transform: scale(0);
+    opacity: 0;
+    visibility: hidden;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+    transition: all 0.2s ease;
+}
+
+.stm_vehicles_listing_icons .inner td.stm-listings-pick-icon:hover .big_icon {
+    visibility: visible;
+    opacity: 1;
+    transform: scale(1);
+}
+
+.stm_vehicles_listing_icons .inner td.stm-listings-pick-icon.chosen i {
+    background-color: #0073aa;
+    color: #fff;
+}
+
+.stm_vehicles_listing_icons .inner .stm_font_nav {
+    position: absolute;
+    top: -60px;
+    left: 0;
+    width: 100%;
+    background-color: #fff;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.stm_vehicles_listing_icons .inner .stm_font_nav:after {
+    position: absolute;
+    bottom: -8px;
+    left: 0;
+    content: "";
+    display: block;
+    height: 8px;
+    width: 100%;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0) 100%);
+}
+
+.stm_vehicles_listing_icons .inner .stm_font_nav > div {
+    float: left;
+}
+
+.stm_vehicles_listing_icons .inner .stm_font_nav > div:first-child a {
+    border-top-left-radius: 5px;
+}
+
+.stm_vehicles_listing_icons .inner .stm_font_nav a {
+    display: block;
+    padding: 21px 50px;
+    background: #fff;
+    font-size: 15px;
+    color: #424242;
+    text-decoration: none !important;
+    box-shadow: none !important;
+}
+
+.stm_vehicles_listing_icons .inner .stm_font_nav a.active {
+    background: #0073aa;
+    color: #fff !important;
+}
+
+.stm_vehicles_listing_icons .inner .stm_theme_font {
+    display: none;
+}
+
+.stm_vehicles_listing_icons .inner .stm_theme_font.active {
+    display: block;
+}
+
+.stm_vehicles_listing_icons.visible {
+    opacity: 1;
+    visibility: visible;
+}

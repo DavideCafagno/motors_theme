@@ -1,0 +1,16 @@
+.stm-c-f-search-form-category-wrap .stm-c-f-search-form-wrap .fullwidth {
+    width: 100%;
+    max-width: 100%;
+    flex: 0 0 100%;
+}
+
+.stm-c-f-search-form-category-wrap .stm-c-f-search-form-wrap .fullwidth .ulisting-form-gruop .stm-row .checkbox-input,
+.stm-c-f-search-form-category-wrap .stm-c-f-search-form-wrap .fullwidth .ulisting-form-gruop .stm-row .checkbox-inpit {
+    width: 25%;
+    max-width: 25%;
+}
+
+.stm-c-f-search-form-category-wrap .stm-c-f-search-form-wrap .fullwidth .ulisting-form-gruop .stm-row .checkbox-input input,
+.stm-c-f-search-form-category-wrap .stm-c-f-search-form-wrap .fullwidth .ulisting-form-gruop .stm-row .checkbox-inpit input {
+    -moz-appearance: checkbox;
+}

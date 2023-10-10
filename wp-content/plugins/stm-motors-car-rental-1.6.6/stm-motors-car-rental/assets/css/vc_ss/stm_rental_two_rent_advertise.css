@@ -1,0 +1,107 @@
+.stm-mcr-rent-advertise-wrap {
+    display: block;
+    width: 100%;
+    position: relative;
+}
+
+.stm-mcr-rent-advertise-wrap .banner-wrap {
+    display: block;
+    width: 100%;
+    position: relative;
+}
+
+.stm-mcr-rent-advertise-wrap .banner-wrap img {
+    display: block;
+    width: 100%;
+    position: relative;
+    object-fit: contain;
+}
+
+.stm-mcr-rent-advertise-wrap .advert-info {
+    display: block;
+    position: absolute;
+    top: 33px;
+    left: 40px;
+}
+
+.stm-mcr-rent-advertise-wrap .advert-info .title {
+    font-size: 48px;
+    line-height: 74px;
+    color: #ffffff;
+    margin-bottom: 6px;
+}
+
+.stm-mcr-rent-advertise-wrap .advert-info .desc {
+    font-size: 20px;
+    line-height: 30px;
+    color: #ffffff;
+}
+
+.stm-mcr-rent-advertise-wrap .advert-info .btn-rent {
+    display: block;
+    position: relative;
+    margin-top: 33px;
+}
+
+.stm-mcr-rent-advertise-wrap .advert-info .btn-rent a {
+    display: inline-block;
+    background-color: #ffffff;
+    padding: 20px 66px 19px;
+    font-size: 16px;
+    color: #1e81f6;
+    transition: all .2s ease-in-out;
+    text-decoration: none;
+}
+
+.stm-mcr-rent-advertise-wrap .advert-info .btn-rent a:hover {
+    background-color: #fbfbfb;
+}
+
+@media (max-width: 900px) {
+    .stm-mcr-rent-advertise-wrap .advert-info {
+        display: block;
+        position: absolute;
+        top: 15px;
+        left: 20px;
+    }
+
+    .stm-mcr-rent-advertise-wrap .advert-info .title {
+        font-size: 30px;
+        line-height: 34px;
+        color: #ffffff;
+        margin-bottom: 6px;
+    }
+
+    .stm-mcr-rent-advertise-wrap .advert-info .desc {
+        font-size: 14px;
+        line-height: 20px;
+        color: #ffffff;
+    }
+
+    .stm-mcr-rent-advertise-wrap .advert-info .btn-rent {
+        display: block;
+        position: relative;
+        margin-top: 10px;
+    }
+
+    .stm-mcr-rent-advertise-wrap .advert-info .btn-rent a {
+        display: inline-block;
+        background-color: #ffffff;
+        padding: 20px 66px 19px;
+        font-size: 16px;
+        color: #1e81f6;
+        transition: all .2s ease-in-out;
+        text-decoration: none;
+    }
+
+    .stm-mcr-rent-advertise-wrap .advert-info .btn-rent a:hover {
+        background-color: #fbfbfb;
+    }
+}
+
+@media (max-width: 600px) {
+    .stm-mcr-rent-advertise-wrap .banner-wrap img {
+        min-height: 400px;
+        object-fit: cover;
+    }
+}

@@ -1,0 +1,8 @@
+/**
+ * Minified by jsDelivr using Terser v3.14.1.
+ * Original file: /npm/withinviewport@2.1.2/jquery.withinviewport.js
+ * 
+ * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
+ */
+!function(t){t.fn.withinviewport=function(i){var n,e;return"string"==typeof i&&(i={sides:i}),n=t.extend({},i,{sides:"all"}),e=[],this.each(function(){withinviewport(this,n)&&e.push(this)}),t(e)},t.extend(t.expr[":"],{"within-viewport":function(t){return withinviewport(t,"all")}}),t.fn.withinviewporttop=function(i){var n,e;return"string"==typeof i&&(i={sides:i}),n=t.extend({},i,{sides:"top"}),e=[],this.each(function(){withinviewport(this,n)&&e.push(this)}),t(e)},t.fn.withinviewportright=function(i){var n,e;return"string"==typeof i&&(i={sides:i}),n=t.extend({},i,{sides:"right"}),e=[],this.each(function(){withinviewport(this,n)&&e.push(this)}),t(e)},t.fn.withinviewportbottom=function(i){var n,e;return"string"==typeof i&&(i={sides:i}),n=t.extend({},i,{sides:"bottom"}),e=[],this.each(function(){withinviewport(this,n)&&e.push(this)}),t(e)},t.fn.withinviewportleft=function(i){var n,e;return"string"==typeof i&&(i={sides:i}),n=t.extend({},i,{sides:"left"}),e=[],this.each(function(){withinviewport(this,n)&&e.push(this)}),t(e)},t.extend(t.expr[":"],{"within-viewport-top":function(t){return withinviewport(t,"top")},"within-viewport-right":function(t){return withinviewport(t,"right")},"within-viewport-bottom":function(t){return withinviewport(t,"bottom")},"within-viewport-left":function(t){return withinviewport(t,"left")}})}(jQuery);
+//# sourceMappingURL=/sm/dd6dd0130a1141a42f3b5b397fea89b8fcbd1068f145ae706805eed8b5d793dc.map

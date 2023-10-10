@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/plugins/gdpr-compliance-cookie-consent" isTestSource="false" packagePrefix="STM_GDPR" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/plugins/motors-elementor-widgets/inc" isTestSource="false" packagePrefix="STM_E_W" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/plugins/motors-elementor-widgets/inc" isTestSource="false" packagePrefix="Motors_E_W" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/plugins/revslider-6.6.14/revslider/includes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/plugins/revslider/includes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/plugins/stm-elementor-widgets/inc" isTestSource="false" packagePrefix="STM_E_W" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/plugins/woocommerce/packages/action-scheduler/classes" isTestSource="false" packagePrefix="Action_Scheduler" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-content/themes/motors/admin/admin-notifications-popup/classes" isTestSource="false" packagePrefix="ANP" />
+      <sourceFolder url="file://$MODULE_DIR$/wp-includes" isTestSource="false" packagePrefix="PHPMailer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

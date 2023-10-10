@@ -67,7 +67,7 @@ class STM_ME_Patcher {
 		);
 
 		foreach ( $patterns as $pattern_key => $pattern ) {
-			if ( false !== strpos( html_entity_decode( wp_strip_all_tags( $theme_settings['footer_copyright_text'] ) ), $pattern_key ) ) {
+			if ( array_key_exists('footer_copyright_text',$theme_settings) && false !== strpos( html_entity_decode( wp_strip_all_tags( $theme_settings['footer_copyright_text'] ) ), $pattern_key ) ) {
 				$theme_settings['footer_copyright_text'] = $pattern;
 			}
 		}

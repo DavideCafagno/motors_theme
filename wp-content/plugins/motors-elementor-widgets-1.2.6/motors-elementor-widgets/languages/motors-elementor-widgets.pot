@@ -1,0 +1,4483 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Motors Elementor Widgets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-05 09:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.2\n"
+"X-Domain: motors-elementor-widgets"
+
+#: inc/Helpers/TemplateManager.php:51
+msgid "  found in Trash"
+msgstr ""
+
+#: templates/widgets/listings-grid-tabs.php:175
+msgid " cars"
+msgstr ""
+
+#: inc/Helpers/TemplateManager.php:50
+msgid " found"
+msgstr ""
+
+#: inc/Widgets/ListingsGridTabs.php:107
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:106
+msgid "\"Show All\" Button"
+msgstr ""
+
+#: inc/Widgets/ListingsGridTabs.php:116
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:116
+msgid "\"Show All\" Button Text"
+msgstr ""
+
+#: inc/Widgets/ImageCategories.php:251
+msgid "\"Show all\" label"
+msgstr ""
+
+#: inc/Widgets/ImageCategories.php:575
+msgid "\"Show all\" Label Color"
+msgstr ""
+
+#: inc/Widgets/ImageCategories.php:589
+msgid "\"Show all\" Label Color On Hover"
+msgstr ""
+
+#: inc/Widgets/ImageCategories.php:511
+msgid "\"Show all\" Label Typography"
+msgstr ""
+
+#. number of remaining photos
+#: templates/widgets/listings-grid.php:174
+#: templates/widgets/listings-carousel.php:181
+#, php-format
+msgid "%d more photo"
+msgid_plural "%d more photos"
+msgstr[0] ""
+msgstr[1] ""
+
+#. post title
+#: templates/widgets/single-listing/gallery.php:179
+#: templates/widgets/single-listing/gallery.php:245
+#, php-format
+msgid "%s full"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:128
+msgid "-1 will show all cars from category"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:281
+msgid "/ month"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:86
+#: inc/Widgets/TestimonialsCarousel.php:101
+#: inc/Widgets/SingleListing/SearchResults.php:85
+#: inc/Widgets/SingleListing/SearchResults.php:103
+msgid "1 item"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:427 templates/widgets/pricing-plan.php:124
+msgid "10 active listing quotas"
+msgstr ""
+
+#: inc/Widgets/SingleListing/ContactInfo.php:142
+msgid "123-456-7890"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:85
+#: inc/Widgets/TestimonialsCarousel.php:100
+#: inc/Widgets/SingleListing/SearchResults.php:86
+#: inc/Widgets/SingleListing/SearchResults.php:104
+msgid "2 items"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:110
+msgid "213x142"
+msgstr ""
+
+#: inc/Widgets/TeamMember.php:53
+msgid "257x170"
+msgstr ""
+
+#: inc/Widgets/ImageCarousel.php:71
+msgid "270x180"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:84
+#: inc/Widgets/TestimonialsCarousel.php:99
+#: inc/Widgets/SingleListing/SearchResults.php:87
+#: inc/Widgets/SingleListing/SearchResults.php:105
+msgid "3 items"
+msgstr ""
+
+#: inc/Widgets/SingleListing/SearchResults.php:88
+#: inc/Widgets/SingleListing/SearchResults.php:106
+msgid "4 items"
+msgstr ""
+
+#: inc/Widgets/SingleListing/SearchResults.php:89
+#: inc/Widgets/SingleListing/SearchResults.php:107
+msgid "5 items"
+msgstr ""
+
+#: inc/Widgets/SingleListing/SearchResults.php:90
+#: inc/Widgets/SingleListing/SearchResults.php:108
+msgid "6 items"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:430
+msgid "7 days listing period"
+msgstr ""
+
+#: inc/Widgets/GoogleMap.php:172
+msgid ""
+"<a href=\"https://snazzymaps.com\" target=\"_blank\">SnazzyMaps</a> is a "
+"free tool for you to create and explore map styles"
+msgstr ""
+
+#: inc/Widgets/GoogleMap.php:51 inc/Widgets/GoogleMap.php:61
+msgid ""
+"<a href=\"https://www.latlong.net\" target=\"_blank\">Here is a tool</a> "
+"where you can find Latitude & Longitude of your location"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:112
+msgid "Above Title"
+msgstr ""
+
+#: inc/Widgets/SellYourCar.php:44
+msgid "Accent Color"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:180
+#: inc/Widgets/ListingsCarousel.php:182 inc/Widgets/ImageCategories.php:344
+#: inc/Widgets/ImageCarousel.php:122 inc/Widgets/TestimonialsCarousel.php:140
+#: inc/Widgets/SingleListing/SearchResults.php:63
+msgid "Accept mouse events like touch events (click and drag to change slides)"
+msgstr ""
+
+#: inc/Widgets/Accordion.php:39
+msgid "Accordion"
+msgstr ""
+
+#: inc/Widgets/Accordion.php:105
+msgid "Accordion Panels"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Actions.php:45
+#: templates/widgets/single-listing/actions.php:12
+msgid "Actions"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:364
+#: inc/Widgets/InventorySearchFilter.php:1111
+#: inc/Widgets/InventorySearchFilter.php:1496
+#: inc/Widgets/InventorySearchFilter.php:1801
+#: inc/Widgets/InventorySearchResults.php:134
+#: inc/Widgets/ListingSearchTabs.php:513 inc/Widgets/CarListingTabs.php:435
+#: inc/Widgets/ListingsGridTabs.php:325 inc/Widgets/ListingsList.php:142
+#: templates/widgets/inventory-search-filter.php:125
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:348
+msgid "Active"
+msgstr ""
+
+#: inc/Widgets/Accordion.php:156
+msgid "Active Icon Color"
+msgstr ""
+
+#: inc/Widgets/SingleListing/SearchResults.php:132
+msgid "Active Listing Border Color"
+msgstr ""
+
+#: inc/Widgets/ContactTabs.php:319
+msgid "Active Tab Background Color"
+msgstr ""
+
+#: inc/Widgets/MultiListing/MultiListingSearchTabs.php:158
+msgid "Active Tab Border Top Color"
+msgstr ""
+
+#: inc/Widgets/ContactTabs.php:309
+msgid "Active Tab Line Color"
+msgstr ""
+
+#: inc/Widgets/ContactTabs.php:330
+msgid "Active Tab Text Color"
+msgstr ""
+
+#: inc/Widgets/Accordion.php:177
+msgid "Active Title Color"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/check_user.php:111
+msgid "Add a Listing using Free or Paid Plan limits"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:203 inc/Widgets/HeroBanner.php:185
+msgid "Add Button Icon"
+msgstr ""
+
+#: inc/Widgets/ListingsCompare.php:93
+msgid "Add Car To Compare"
+msgstr ""
+
+#: inc/Widgets/ListingsCompare.php:100 inc/Widgets/ListingsCompare.php:144
+msgid "Add Item Icon"
+msgstr ""
+
+#: inc/Widgets/ListingsCompare.php:246
+msgid "Add Item Icon Color"
+msgstr ""
+
+#: inc/Widgets/ListingsCompare.php:258
+msgid "Add Item Icon Size"
+msgstr ""
+
+#: inc/Widgets/ListingsCompare.php:92 inc/Widgets/ListingsCompare.php:136
+msgid "Add Item Label"
+msgstr ""
+
+#: inc/Widgets/ListingsCompare.php:211
+msgid "Add Item Label Typography"
+msgstr ""
+
+#: inc/Widgets/ListingsCompare.php:137
+msgid "Add Item To Compare"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:12 inc/Widgets/AddListing.php:63
+msgid "Add Listing"
+msgstr ""
+
+#: inc/Helpers/TemplateManager.php:43
+msgid "Add New"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/item_seller_note.php:74
+msgid "Add the Template Phrases"
+msgstr ""
+
+#: templates/widgets/single-listing/actions.php:85
+msgid "Add to compare"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/item_videos.php:14
+msgid "Add Videos"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/Title.php:71
+msgid "Added Date"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/Title.php:203
+msgid "Added Date Icon Size"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/Title.php:171
+msgid "Added Date Typography"
+msgstr ""
+
+#: templates/widgets/single-listing/actions.php:37
+msgid "ADDED: "
+msgstr ""
+
+#: templates/widgets/listings-compare.php:408
+msgid "Additional features"
+msgstr ""
+
+#: inc/Widgets/SingleListing/ListingMap.php:64
+msgid "Address"
+msgstr ""
+
+#: inc/Widgets/ContactTabs.php:99
+msgid "Address Content"
+msgstr ""
+
+#: inc/Widgets/ContactTabs.php:76
+msgid "Address Icon"
+msgstr ""
+
+#: inc/Widgets/SingleListing/ListingMap.php:100
+msgid "Address Settings"
+msgstr ""
+
+#: inc/Widgets/ContactTabs.php:89
+msgid "Address Title"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:198
+msgid "Advanced Search"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:544
+msgid "Advanced Search toggle font size"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:197
+msgid "Advanced Search toggle label"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:580 inc/Widgets/ListingSearchTabs.php:600
+msgid "Advanced Search toggle label color"
+msgstr ""
+
+#: inc/Widgets/PostsGrid.php:95
+msgid "Advertisement Image"
+msgstr ""
+
+#: inc/Widgets/PostsGrid.php:120
+msgid "Advertisement Link"
+msgstr ""
+
+#: inc/Widgets/PostsGrid.php:87
+msgid "Advertising"
+msgstr ""
+
+#: inc/Widgets/PostsGrid.php:107
+msgid "Advertising position"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:136
+msgid "Ajax Loading"
+msgstr ""
+
+#: inc/Widgets/ColoredSeparator.php:52
+msgid "Align"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:229
+#: inc/Widgets/MegaMenu/TopMakesTabs.php:45
+msgid "All"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:220
+msgid "All Categories Tab"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:228
+msgid "All Categories Tab Title"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:200
+msgid "Allowed Histories"
+msgstr ""
+
+#: templates/widgets/dealers-list.php:26
+msgid "Alphabet"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/registration.php:9
+msgid "Already Registered? Members"
+msgstr ""
+
+#: inc/Widgets/LoanCalculator.php:80
+msgid "Amount"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:972
+#: inc/Widgets/InventorySearchFilter.php:1014
+#: inc/Widgets/InventorySearchFilter.php:1696
+msgid "Amount Color"
+msgstr ""
+
+#: inc/Widgets/ArrowBanner.php:118
+msgid "Animated Arrow"
+msgstr ""
+
+#: inc/Widgets/IconCounter.php:97
+msgid "Animation Duration"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:211
+#: inc/Widgets/ImageCategories.php:364 inc/Widgets/ImageCarousel.php:136
+#: inc/Widgets/HeroSlider.php:239 inc/Widgets/TestimonialsCarousel.php:155
+#: inc/Widgets/SingleListing/SearchResults.php:71
+msgid "Animation Speed"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:176
+msgid "Applies to Required Categories"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/additional_fields.php:84
+#: templates/widgets/add-listing/parts/item_seller_note.php:42
+msgid "Apply"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:1881
+#: inc/Widgets/InventorySearchFilter.php:2266
+msgid "Apply Button"
+msgstr ""
+
+#: inc/Widgets/ArrowBanner.php:62
+msgid "Arrow Banner"
+msgstr ""
+
+#: inc/Widgets/ArrowBanner.php:369
+msgid "Arrow Bottom In Pixels"
+msgstr ""
+
+#: inc/Widgets/ArrowBanner.php:359
+msgid "Arrow Bottom Offset"
+msgstr ""
+
+#: inc/Widgets/ArrowBanner.php:290
+msgid "Arrow Direction"
+msgstr ""
+
+#: inc/Widgets/ArrowBanner.php:392
+msgid "Arrow Left In Pixels"
+msgstr ""
+
+#: inc/Widgets/ArrowBanner.php:381
+msgid "Arrow Left Offset"
+msgstr ""
+
+#: inc/Widgets/ArrowBanner.php:347
+msgid "Arrow Right In Pixels"
+msgstr ""
+
+#: inc/Widgets/ArrowBanner.php:337
+msgid "Arrow Right Offset"
+msgstr ""
+
+#: inc/Widgets/ArrowBanner.php:325
+msgid "Arrow Top In Pixels"
+msgstr ""
+
+#: inc/Widgets/ArrowBanner.php:314
+msgid "Arrow Top Offset"
+msgstr ""
+
+#: inc/Widgets/SingleListing/DealerEmail.php:55
+msgid "Author Email"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:251
+msgid "Author name"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:430
+msgid "Author Name Color"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:511
+msgid "Author Name Text Style"
+msgstr ""
+
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:57
+msgid "Author Phone Number"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:260
+msgid "Author Position"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:441
+msgid "Author Position Color"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:520
+msgid "Author Position Text Style"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:269
+msgid "Author Vehicle Model"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:528
+msgid "Author Vehicle Model Text Style"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:201
+#: inc/Widgets/ListingsCarousel.php:189 inc/Widgets/ImageCategories.php:354
+#: inc/Widgets/ImageCarousel.php:129 inc/Widgets/HeroSlider.php:250
+#: inc/Widgets/TestimonialsCarousel.php:147
+msgid "Autoplay"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:188
+#: templates/widgets/listings-grid-tabs.php:174
+msgid "available"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:116
+msgid "Available Slots"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:234
+#: inc/Widgets/InventorySearchFilter.php:462
+#: inc/Widgets/InventorySearchFilter.php:589
+#: inc/Widgets/InventorySearchFilter.php:660
+#: inc/Widgets/InventorySearchFilter.php:884
+#: inc/Widgets/InventorySearchFilter.php:923
+#: inc/Widgets/InventorySearchFilter.php:1204
+#: inc/Widgets/InventorySearchFilter.php:1369
+#: inc/Widgets/InventorySearchFilter.php:1555
+#: inc/Widgets/InventorySearchFilter.php:1890
+#: inc/Widgets/InventorySearchFilter.php:2011
+#: inc/Widgets/InventorySearchFilter.php:2030
+#: inc/Widgets/InventorySearchFilter.php:2183
+#: inc/Widgets/InventorySearchFilter.php:2283
+#: inc/Widgets/InventorySearchFilter.php:2348
+#: inc/Widgets/InventorySearchResults.php:122
+#: inc/Widgets/InventorySearchResults.php:141
+#: inc/Widgets/CarListingTabs.php:476 inc/Widgets/ListingsList.php:127
+#: inc/Widgets/ListingsList.php:152
+#: inc/Widgets/SingleListing/DealerEmail.php:101
+#: inc/Widgets/SingleListing/DealerEmail.php:177
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:119
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:206
+#: inc/Widgets/SingleListing/WhatsApp.php:101
+#: inc/Widgets/SingleListing/WhatsApp.php:177
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:336
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:417
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:687
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:768
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1038
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1130
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1448
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1528
+msgid "Background"
+msgstr ""
+
+#: inc/Widgets/DealersList.php:168 inc/Widgets/ListingSearchTabs.php:432
+#: inc/Widgets/CarListingTabs.php:411 inc/Widgets/CarListingTabs.php:442
+#: inc/Widgets/PricingPlan.php:683 inc/Widgets/PricingPlan.php:1208
+#: inc/Widgets/PricingPlan.php:1436
+msgid "Background Color"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:666
+msgid "Badge Background Color"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:652
+msgid "Badge Color"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:177
+msgid "Badge Position"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:168
+msgid "Badge Text"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:599
+msgid "Badge Typography"
+msgstr ""
+
+#: inc/Widgets/SingleListing/DealerEmail.php:298
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:410
+#: inc/Widgets/SingleListing/WhatsApp.php:298
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:546
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:897
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1307
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1656
+msgid "Border"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:948
+#: inc/Widgets/SingleListing/DealerEmail.php:135
+#: inc/Widgets/SingleListing/DealerEmail.php:211
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:164
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:251
+#: inc/Widgets/SingleListing/WhatsApp.php:135
+#: inc/Widgets/SingleListing/WhatsApp.php:211
+#: inc/Widgets/SingleListing/Classified/ListingData.php:259
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:373
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:454
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:724
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:805
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1086
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1178
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1484
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1564
+msgid "Border Color"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:337
+#: inc/Widgets/InventorySearchFilter.php:415
+#: inc/Widgets/InventorySearchFilter.php:571
+#: inc/Widgets/InventorySearchFilter.php:642
+#: inc/Widgets/InventorySearchFilter.php:1088
+#: inc/Widgets/InventorySearchFilter.php:1158
+#: inc/Widgets/InventorySearchFilter.php:1468
+#: inc/Widgets/InventorySearchFilter.php:1777
+#: inc/Widgets/InventorySearchFilter.php:1851
+#: inc/Widgets/InventorySearchFilter.php:1917
+#: inc/Widgets/InventorySearchFilter.php:2057
+#: inc/Widgets/InventorySearchFilter.php:2163
+#: inc/Widgets/InventorySearchFilter.php:2309
+#: inc/Widgets/InventorySearchFilter.php:2374 inc/Widgets/PricingPlan.php:1568
+#: inc/Widgets/PricingPlan.php:1641
+#: inc/Widgets/SingleListing/DealerEmail.php:321
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:433
+#: inc/Widgets/SingleListing/WhatsApp.php:321
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:573
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:924
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1334
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1683
+msgid "Border Radius"
+msgstr ""
+
+#: inc/Widgets/ListingsGridTabs.php:284
+msgid "Border Top Color"
+msgstr ""
+
+#: inc/Widgets/LoginRegister.php:259
+msgid "Borders Color"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:313
+#: inc/Widgets/Controls/StyleControls/VerticalAlignControl.php:40
+#: inc/Widgets/Controls/StyleControls/VerticalAlignControl.php:80
+msgid "Bottom"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:399
+msgid "Bottom border color"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:375
+msgid "Bottom border size"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:184
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:1673 inc/Widgets/PricingPlan.php:1718
+msgid "Bottom Line Height"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:1698 inc/Widgets/PricingPlan.php:1743
+msgid "Bottom Line Separator Color"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:185
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:243
+#: inc/Widgets/InventorySearchFilter.php:446
+#: inc/Widgets/InventorySearchFilter.php:781
+#: inc/Widgets/InventorySearchFilter.php:1306
+#: inc/Widgets/InventorySearchFilter.php:1986
+#: inc/Widgets/InventorySearchFilter.php:2121
+#: inc/Widgets/InventorySearchFilter.php:2442
+msgid "Box Padding"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:226
+#: inc/Widgets/InventorySearchFilter.php:600
+#: inc/Widgets/InventorySearchFilter.php:671
+#: inc/Widgets/InventorySearchFilter.php:802
+#: inc/Widgets/InventorySearchFilter.php:915
+#: inc/Widgets/InventorySearchFilter.php:1214
+#: inc/Widgets/InventorySearchFilter.php:1929
+#: inc/Widgets/InventorySearchFilter.php:2069
+#: inc/Widgets/InventorySearchFilter.php:2195
+#: inc/Widgets/InventorySearchFilter.php:2321
+#: inc/Widgets/InventorySearchFilter.php:2386
+#: inc/Widgets/CarListingTabs.php:498 inc/Widgets/ContactFormSeven.php:122
+#: inc/Widgets/SingleListing/DealerEmail.php:146
+#: inc/Widgets/SingleListing/DealerEmail.php:222
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:175
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:262
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:736
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:817
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1098
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1190
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1496
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1576
+msgid "Box Shadow"
+msgstr ""
+
+#: inc/Widgets/SingleListing/WhatsApp.php:146
+#: inc/Widgets/SingleListing/WhatsApp.php:222
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:385
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:466
+msgid "Box shadow"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:107
+msgid "Build Your Ad"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:84
+msgid "Business "
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:374
+msgid "Button"
+msgstr ""
+
+#: inc/Widgets/LoginRegister.php:125 inc/Widgets/LoginRegister.php:154
+#: inc/Widgets/DealersList.php:187 inc/Widgets/DealersList.php:216
+#: inc/Widgets/ListingSearchTabs.php:624 inc/Widgets/ListingSearchTabs.php:653
+#: inc/Widgets/ListingsGridTabs.php:383 inc/Widgets/ListingsGridTabs.php:412
+#: inc/Widgets/PricingPlan.php:1534 inc/Widgets/PricingPlan.php:1610
+#: inc/Widgets/MultiListing/MultiListingSearchTabs.php:180
+#: inc/Widgets/MultiListing/MultiListingSearchTabs.php:209
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:406
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:435
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:322
+#: inc/Widgets/InventorySearchFilter.php:400
+#: inc/Widgets/InventorySearchFilter.php:556
+#: inc/Widgets/InventorySearchFilter.php:627
+#: inc/Widgets/InventorySearchFilter.php:1073
+#: inc/Widgets/InventorySearchFilter.php:1143
+#: inc/Widgets/InventorySearchFilter.php:1453
+#: inc/Widgets/InventorySearchFilter.php:1761
+#: inc/Widgets/InventorySearchFilter.php:1835
+#: inc/Widgets/InventorySearchFilter.php:1902
+#: inc/Widgets/InventorySearchFilter.php:2042
+#: inc/Widgets/InventorySearchFilter.php:2148
+#: inc/Widgets/InventorySearchFilter.php:2294
+#: inc/Widgets/InventorySearchFilter.php:2359 inc/Widgets/PricingPlan.php:1550
+#: inc/Widgets/PricingPlan.php:1623
+msgid "Button Border"
+msgstr ""
+
+#: inc/Widgets/PlayVideo.php:57
+msgid "Button color"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:468
+msgid "Button Colors"
+msgstr ""
+
+#: inc/Widgets/DealersList.php:124
+msgid "Button Icon"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:690 inc/Widgets/HeroSlider.php:1151
+#: inc/Widgets/HeroSlider.php:1413 inc/Widgets/HeroBanner.php:722
+msgid "Button Icon Color"
+msgstr ""
+
+#: inc/Widgets/DealersList.php:256 inc/Widgets/ListingSearchTabs.php:693
+msgid "Button Icon Margin"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:701 inc/Widgets/HeroSlider.php:1162
+#: inc/Widgets/HeroSlider.php:1424 inc/Widgets/HeroBanner.php:733
+msgid "Button Icon Size"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:187 inc/Widgets/PricingPlan.php:298
+#: inc/Widgets/HeroBanner.php:171
+msgid "Button Link"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:324
+msgid "Button Margin Top"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:726 inc/Widgets/HeroSlider.php:1187
+#: inc/Widgets/HeroSlider.php:1449 inc/Widgets/HeroBanner.php:758
+msgid "Button Padding"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:309
+msgid "Button Position"
+msgstr ""
+
+#: inc/Widgets/DealersList.php:115 inc/Widgets/HeroSlider.php:642
+#: inc/Widgets/HeroSlider.php:1103 inc/Widgets/HeroSlider.php:1365
+#: inc/Widgets/PricingPlan.php:288 inc/Widgets/HeroBanner.php:674
+msgid "Button Text"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:188
+msgid "Button text"
+msgstr ""
+
+#: inc/Widgets/LoginRegister.php:135 inc/Widgets/LoginRegister.php:164
+#: inc/Widgets/DealersList.php:197 inc/Widgets/DealersList.php:226
+#: inc/Widgets/ListingSearchTabs.php:634 inc/Widgets/ListingSearchTabs.php:663
+#: inc/Widgets/ListingsGridTabs.php:373 inc/Widgets/ListingsGridTabs.php:402
+#: inc/Widgets/HeroSlider.php:679 inc/Widgets/HeroSlider.php:1140
+#: inc/Widgets/HeroSlider.php:1402 inc/Widgets/HeroBanner.php:711
+#: inc/Widgets/MultiListing/MultiListingSearchTabs.php:190
+#: inc/Widgets/MultiListing/MultiListingSearchTabs.php:219
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:396
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:425
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:195 inc/Widgets/HeroBanner.php:178
+msgid "Button Title"
+msgstr ""
+
+#: inc/Widgets/DealersList.php:242 inc/Widgets/ListingSearchTabs.php:679
+#: inc/Widgets/PricingPlan.php:1385
+msgid "Button Typography"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:1520 inc/Widgets/PricingPlan.php:1595
+msgid "Button Typography Color"
+msgstr ""
+
+#: templates/widgets/listings-grid.php:311
+#: templates/widgets/listings-carousel.php:312
+msgid "BUY ONLINE"
+msgstr ""
+
+#: templates/widgets/calculator-vertical.php:86
+#: templates/widgets/calculator-horizontal.php:76
+msgid "Calculate"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:656
+msgid "Call to Action"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:261
+msgid "Call to action"
+msgstr ""
+
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:71
+msgid "Call Us"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:266
+msgid "Call-to-Action"
+msgstr ""
+
+#: templates/widgets/single-listing/actions.php:100
+msgid "Car brochure"
+msgstr ""
+
+#: inc/Widgets/SingleListing/CarMPG.php:32
+msgid "Car MPG"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:262
+msgid "Car Reviews Tab"
+msgstr ""
+
+#: inc/Widgets/SingleListing/CarGuru.php:35
+#: templates/widgets/single-listing/car-guru.php:21
+msgid "CarGurus"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:161
+#: inc/Widgets/ImageCategories.php:130
+msgid "Carousel"
+msgstr ""
+
+#: inc/Widgets/ImageCarousel.php:62
+msgid "Carousel Images"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:69
+msgid "Carousel title"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:380
+msgid "Cars"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:120 inc/Widgets/CarListingTabs.php:198
+#: templates/widgets/listings-categories-masonry.php:82
+msgid "cars"
+msgstr ""
+
+#: templates/widgets/dealers-list.php:29
+msgid "Cars number"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:127
+msgid "Cars Per Load"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:236
+msgid "Categories"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:117 inc/Widgets/ListingSearchTabs.php:277
+#: inc/Widgets/CarListingTabs.php:100
+msgid "Category"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:455
+msgid "Category Icons Color"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:466
+msgid "Category Icons Position"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:438
+msgid "Category Margins"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:478
+msgid "Category Name Color"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:488
+msgid "Category Name Font Size"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:212
+msgid "Category Tabs"
+msgstr ""
+
+#: inc/Widgets/ColoredSeparator.php:56
+#: inc/Widgets/Controls/StyleControls/VerticalAlignControl.php:36
+#: inc/Widgets/Controls/StyleControls/VerticalAlignControl.php:76
+#: inc/Widgets/Controls/StyleControls/AlignControl.php:31
+#: inc/Widgets/Controls/StyleControls/AlignControl.php:77
+#: inc/Widgets/Controls/StyleControls/AlignControl.php:123
+#: inc/Widgets/Controls/StyleControls/AlignControl.php:169
+msgid "Center"
+msgstr ""
+
+#: inc/Widgets/SingleListing/ListingData.php:50
+msgid "Certified Logo 1"
+msgstr ""
+
+#: inc/Widgets/SingleListing/ListingData.php:57
+msgid "Certified Logo 2"
+msgstr ""
+
+#: inc/Widgets/SingleListing/WhatsApp.php:69
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:143
+msgid "CHAT VIA WHATSAPP"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:1639
+msgid "Checkbox Label"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:902
+msgid "Checkbox Label Color"
+msgstr ""
+
+#: inc/Helpers/Helper.php:528 templates/widgets/dealers-list.php:56
+msgid "Choose"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/item_gallery.php:41
+#: templates/widgets/add-listing/parts/item_gallery.php:79
+msgid "Choose files"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:93 inc/Widgets/HeroBanner.php:70
+msgid "Choose Image"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/item_plans.php:16
+msgid "Choose plan"
+msgstr ""
+
+#: templates/widgets/single-listing/car-mpg.php:16
+msgid "city mpg"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:179
+#: inc/Widgets/ListingsCarousel.php:181 inc/Widgets/ImageCategories.php:343
+#: inc/Widgets/ImageCarousel.php:121 inc/Widgets/TestimonialsCarousel.php:139
+#: inc/Widgets/SingleListing/SearchResults.php:62
+msgid "Click & Drag"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:1347
+msgid "Close Button Color"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:844
+msgid "Collapse Indicatior Color"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:1607
+msgid "Collapse Indicator"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:861
+#: inc/Widgets/InventorySearchFilter.php:1616
+#: inc/Widgets/InventorySearchFilter.php:1646
+#: inc/Widgets/CarListingTabs.php:624 inc/Widgets/CarListingTabs.php:643
+#: inc/Widgets/SingleListing/Title.php:97
+msgid "Color"
+msgstr ""
+
+#: inc/Widgets/ColoredSeparator.php:26
+msgid "Colored Separator"
+msgstr ""
+
+#: inc/Widgets/Accordion.php:141 inc/Widgets/ContactTabs.php:293
+#: inc/Widgets/ContactFormSeven.php:162 inc/Widgets/TeamMember.php:94
+#: inc/Widgets/SingleListing/SearchResults.php:117
+msgid "Colors"
+msgstr ""
+
+#: inc/Widgets/ImageCategories.php:200 inc/Widgets/ImageCategories.php:265
+#: inc/Widgets/SingleListing/ListingSpecifications.php:68
+msgid "Columns"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Gallery.php:62
+msgid "Compare"
+msgstr ""
+
+#: inc/Widgets/ListingsCompare.php:85 inc/Widgets/ListingsCompare.php:129
+msgid "Compare vehicles"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Actions.php:86
+msgid "Comparison"
+msgstr ""
+
+#: inc/Widgets/ContactFormSeven.php:101
+msgid "Contact Form"
+msgstr ""
+
+#: inc/Widgets/ContactFormSeven.php:44
+msgid "Contact form 7"
+msgstr ""
+
+#: inc/Widgets/SingleListing/ContactInfo.php:56
+#: inc/Widgets/SingleListing/ContactInfo.php:149
+msgid "Contact Info"
+msgstr ""
+
+#: inc/Widgets/SingleListing/ContactInfo.php:70
+msgid "Contact Information"
+msgstr ""
+
+#: inc/Widgets/ContactTabs.php:189
+msgid "Contact Tabs"
+msgstr ""
+
+#: inc/Widgets/ContactTabs.php:43
+msgid "Contact tabs"
+msgstr ""
+
+#: inc/Widgets/ContactTabs.php:363
+msgid "Container Background Color"
+msgstr ""
+
+#: inc/Widgets/DealersList.php:80 inc/Widgets/ArrowBanner.php:78
+#: inc/Widgets/Accordion.php:81 inc/Widgets/ListingsGridTabs.php:60
+#: inc/Widgets/PricingPlan.php:1329 inc/Widgets/TestimonialsCarousel.php:241
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:60
+msgid "Content"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:677
+msgid "Content Background Color"
+msgstr ""
+
+#: inc/Widgets/ContactTabs.php:396
+msgid "Content Color"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:661
+msgid "Content Padding"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:688 inc/Widgets/TestimonialsCarousel.php:420
+msgid "Content Text Color"
+msgstr ""
+
+#: inc/Widgets/Accordion.php:200 inc/Widgets/ContactTabs.php:427
+#: inc/Widgets/TestimonialsCarousel.php:499
+msgid "Content Text Style"
+msgstr ""
+
+#: templates/widgets/posts-grid/posts-grid-loop.php:80
+msgid "Continue reading"
+msgstr ""
+
+#: inc/Widgets/GoogleMap.php:95
+msgid "Control Tools"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:364 inc/Widgets/HeroSlider.php:825
+#: inc/Widgets/PricingPlan.php:232 inc/Widgets/HeroBanner.php:316
+msgid "Currency"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:1291
+msgid "Currency Color"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:241
+msgid "Currency Position"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:1058
+msgid "Currency Typography"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/item_price.php:61
+msgid "Custom label instead of price"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:146
+msgid "Custom Title"
+msgstr ""
+
+#: inc/Widgets/SingleListing/ListingData.php:30
+msgid "Data"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/ListingData.php:40
+msgid "Data Classified"
+msgstr ""
+
+#: templates/widgets/dealers-list.php:28
+msgid "Date"
+msgstr ""
+
+#: inc/Widgets/DealersList.php:106
+msgid "Dealer Fields"
+msgstr ""
+
+#: inc/Widgets/DealersList.php:72
+msgid "Dealers List"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:83 inc/Widgets/HeroSlider.php:282
+msgid "Default"
+msgstr ""
+
+#: inc/Widgets/LoanCalculator.php:73
+msgid "Default Down Payment Type"
+msgstr ""
+
+#: inc/Widgets/LoanCalculator.php:57
+msgid "Default Interest Rate"
+msgstr ""
+
+#: inc/Widgets/ListingsCompare.php:74
+msgid "Default Listing type"
+msgstr ""
+
+#: inc/Widgets/MultiListing/MultiListingAddItemButtons.php:68
+msgid "Default listing type Icon"
+msgstr ""
+
+#: inc/Widgets/MultiListing/MultiListingAddItemButtons.php:60
+msgid "Default listing type label"
+msgstr ""
+
+#: inc/Widgets/LoanCalculator.php:65
+msgid "Default Loan Term"
+msgstr ""
+
+#: inc/Widgets/GoogleMap.php:68
+msgid "Default zoom"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:221
+msgid "Delay between transitions (in ms)"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:234
+#: inc/Widgets/ImageCategories.php:387 inc/Widgets/ImageCarousel.php:153
+#: inc/Widgets/HeroSlider.php:265 inc/Widgets/TestimonialsCarousel.php:172
+msgid "Delay between transitions in milliseconds"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:480 inc/Widgets/HeroSlider.php:941
+#: inc/Widgets/HeroBanner.php:472
+msgid "Delimiter Margin"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:451 inc/Widgets/HeroSlider.php:912
+#: inc/Widgets/HeroBanner.php:433
+msgid "Delimiter Month"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:111
+#: inc/Helpers/AddListingMananger.php:263
+#: inc/Helpers/AddListingMananger.php:282
+#: inc/Helpers/AddListingMananger.php:331
+#: inc/Helpers/AddListingMananger.php:371 inc/Widgets/HeroSlider.php:179
+#: inc/Widgets/HeroSlider.php:585 inc/Widgets/HeroSlider.php:1046
+#: inc/Widgets/HeroSlider.php:1308 inc/Widgets/HeroBanner.php:164
+#: inc/Widgets/HeroBanner.php:617 inc/Widgets/SingleListing/ContactInfo.php:107
+#: inc/Widgets/SingleListing/ListingDescription.php:32
+msgid "Description"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:98
+msgid "Description & Slots"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:631 inc/Widgets/HeroSlider.php:1092
+#: inc/Widgets/HeroSlider.php:1354 inc/Widgets/HeroBanner.php:663
+msgid "Description Color"
+msgstr ""
+
+#: inc/Widgets/SingleListing/ContactInfo.php:268
+#: inc/Widgets/SingleListing/ContactInfo.php:423
+msgid "Description color"
+msgstr ""
+
+#: inc/Widgets/SingleListing/ContactInfo.php:279
+msgid "Description Content Padding"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:1290 inc/Widgets/HeroBanner.php:288
+msgid "Description Margin"
+msgstr ""
+
+#: inc/Widgets/SingleListing/ContactInfo.php:233
+#: inc/Widgets/SingleListing/ContactInfo.php:388
+msgid "Description Typography"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:53 inc/Helpers/AddListingMananger.php:161
+msgid "Details"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:85
+msgid "Disable Layouts"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:1304
+msgid "Discount Color"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:271
+msgid "Discount Price"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:1106
+msgid "Discount Typography"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:352
+msgid "Display Items"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:344
+msgid ""
+"Displays in accordance with User/Dealer > Main > Enable Pricing Plans "
+"settings."
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:310
+msgid "Divider Color"
+msgstr ""
+
+#: templates/widgets/calculator-vertical.php:75
+#: templates/widgets/calculator-horizontal.php:71
+msgid "Down Payment"
+msgstr ""
+
+#: inc/Widgets/LoanCalculator.php:91
+msgid "Down Payment Amount"
+msgstr ""
+
+#: templates/widgets/calculator-vertical.php:174
+#: templates/widgets/calculator-horizontal.php:179
+msgid "Down payment can not be more than vehicle price"
+msgstr ""
+
+#: inc/Widgets/LoanCalculator.php:98
+msgid "Down Payment Percent (%)"
+msgstr ""
+
+#: templates/widgets/single-listing/actions.php:97
+#: templates/widgets/single-listing/gallery.php:47
+msgid "Download brochure"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:209
+msgid "Duration of transition between slides (in ms)"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/check_user.php:116
+msgid "Edit Listing"
+msgstr ""
+
+#: inc/Helpers/Helper.php:114 inc/Widgets/TeamMember.php:78
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:102
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:673
+msgid "Email"
+msgstr ""
+
+#: templates/widgets/login_register.php:125
+#: templates/widgets/add-listing/parts/registration.php:52
+msgid "Email *"
+msgstr ""
+
+#: inc/Widgets/TeamMember.php:99
+msgid "Email Button Background Color"
+msgstr ""
+
+#: inc/Widgets/TeamMember.php:109
+msgid "Email Button Text Color"
+msgstr ""
+
+#: templates/widgets/listings-compare.php:112
+#: templates/widgets/listings-compare.php:173
+#: templates/widgets/listings-compare.php:320
+#: templates/widgets/listings-compare.php:356
+#: templates/widgets/listings-compare.php:443
+msgid "Empty"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:49
+msgid "Enable Layouts"
+msgstr ""
+
+#: inc/Widgets/ListingsList.php:93
+msgid "Enable pagination"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:258
+#: inc/Widgets/ListingsCarousel.php:239 inc/Widgets/ImageCategories.php:411
+#: inc/Widgets/ImageCarousel.php:171 inc/Widgets/TestimonialsCarousel.php:190
+msgid "Enables autoplay in reverse direction"
+msgstr ""
+
+#: inc/Widgets/IconCounter.php:73
+msgid "Ending Number"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/item_details.php:152
+#, php-format
+msgid "Enter %1$s %2$s"
+msgstr ""
+
+#: templates/widgets/dealers-list.php:91
+msgid "Enter a location"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:201
+msgid ""
+"Enter allowed histories, separated by a comma. Example - (Carfax, AutoCheck, "
+"Carfax 1 Owner, etc)"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:169
+msgid "Enter Badge Text"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:299
+msgid "Enter Button Link"
+msgstr ""
+
+#: inc/Widgets/DealersList.php:116 inc/Widgets/PricingPlan.php:289
+msgid "Enter Button Text"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:233
+msgid "Enter Currency"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/additional_fields.php:27
+msgid "Enter date"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:272
+msgid "Enter Discount Price"
+msgstr ""
+
+#: templates/widgets/login_register.php:127
+#: templates/widgets/add-listing/parts/registration.php:53
+msgid "Enter E-mail"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:242
+msgid ""
+"Enter features, separated by comma without spaces. Example - (Bluetooth,DVD "
+"Player,etc)"
+msgstr ""
+
+#: templates/widgets/login_register.php:104
+#: templates/widgets/add-listing/parts/registration.php:33
+msgid "Enter First name"
+msgstr ""
+
+#: inc/Widgets/ImageCarousel.php:73 inc/Widgets/TestimonialsCarousel.php:114
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use \"thumbnail\" size."
+msgstr ""
+
+#: templates/widgets/login_register.php:109
+#: templates/widgets/add-listing/parts/registration.php:37
+msgid "Enter Last name"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/item_details.php:245
+msgid "Enter Latitude"
+msgstr ""
+
+#: templates/widgets/login_register.php:135
+#: templates/widgets/add-listing/parts/registration.php:60
+msgid "Enter Login"
+msgstr ""
+
+#: templates/widgets/login_register.php:43
+#: templates/widgets/login_register.php:76
+#: templates/widgets/add-listing/parts/check_user.php:75
+msgid "Enter login or E-mail"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/item_details.php:252
+msgid "Enter Longitude"
+msgstr ""
+
+#: templates/widgets/login_register.php:142
+#: templates/widgets/add-listing/parts/registration.php:66
+msgid "Enter Password"
+msgstr ""
+
+#: templates/widgets/login_register.php:48
+#: templates/widgets/add-listing/parts/check_user.php:80
+msgid "Enter password"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:280
+msgid "Enter Period Text"
+msgstr ""
+
+#: templates/widgets/login_register.php:117
+#: templates/widgets/add-listing/parts/registration.php:44
+msgid "Enter Phone"
+msgstr ""
+
+#: inc/Widgets/TeamMember.php:55
+msgid ""
+"Enter photo size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use \"medium\" size."
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:263
+msgid "Enter Price"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/item_seller_note.php:20
+msgid "Enter Seller's notes"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Similar.php:62
+msgid "Enter slug of listing category"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:92
+msgid "Enter Subtitle"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:83 inc/Widgets/PricingPlan.php:364
+msgid "Enter Title"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/additional_fields.php:44
+msgid "Enter VIN"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/item_details.php:238
+msgid "Enter ZIP or Address"
+msgstr ""
+
+#: inc/Widgets/PostsGrid.php:156 inc/Widgets/PostsGrid.php:186
+msgid "Excerpt Text Color"
+msgstr ""
+
+#: inc/Widgets/LoginRegister.php:90
+msgid "External Link"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Gallery.php:79
+msgid "Featured"
+msgstr ""
+
+#: inc/Widgets/ListingsGridTabs.php:174
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:207
+msgid "Featured items"
+msgstr ""
+
+#: inc/Widgets/ListingsGridTabs.php:173
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:206
+msgid "Featured Tab Label"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:58 inc/Helpers/AddListingMananger.php:224
+#: inc/Helpers/AddListingMananger.php:233
+#: inc/Widgets/SingleListing/Features.php:42
+#: inc/Widgets/SingleListing/Features.php:106
+#: templates/widgets/single-listing/features.php:23
+msgid "Features"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:241
+msgid "Features list"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:261
+#: inc/Widgets/InventorySearchFilter.php:1029
+msgid "Field"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:311
+#: inc/Widgets/InventorySearchFilter.php:1440
+msgid "Field Title Color"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:142 inc/Widgets/ListingSearchTabs.php:302
+msgid "Field width"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:177 inc/Widgets/ListingSearchTabs.php:337
+#: inc/Widgets/ListingSearchTabs.php:363
+msgid "Fields"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:1716
+msgid "Fields Settings"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:1390
+msgid "Fields settings"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:1362
+msgid "Filter Background"
+msgstr ""
+
+#: inc/Widgets/DealersList.php:117
+msgid "Find Dealer "
+msgstr ""
+
+#: templates/widgets/login_register.php:102
+#: templates/widgets/add-listing/parts/registration.php:32
+msgid "First Name"
+msgstr ""
+
+#: inc/Widgets/ArrowBanner.php:279
+msgid "Flip Arrow"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:93
+msgid "for dealers"
+msgstr ""
+
+#: templates/widgets/login_register.php:57
+msgid "Forgot Password"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:102
+msgid "Form Fields"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:173
+msgid "Found Cars Icon"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:338
+msgid "Found Cars Icon Color"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:375
+msgid "Found Cars Icon Margin"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:350
+msgid "Found Cars Icon Size"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:327
+msgid "Found Cars Number Color"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:186
+msgid "Found Cars Prefix"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:196
+msgid "Found Cars Suffix"
+msgstr ""
+
+#: inc/Helpers/Helper.php:70
+msgid "Full"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:92
+msgid "Full Phone"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:62 inc/Helpers/AddListingMananger.php:255
+#: inc/Widgets/SingleListing/Gallery.php:40
+msgid "Gallery"
+msgstr ""
+
+#: templates/widgets/image-carousel.php:42
+msgid "Gallery image"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:99 inc/Helpers/AddListingMananger.php:108
+#: inc/Helpers/AddListingMananger.php:113
+#: inc/Helpers/AddListingMananger.php:119
+#: inc/Helpers/AddListingMananger.php:125
+#: inc/Helpers/AddListingMananger.php:142
+#: inc/Helpers/AddListingMananger.php:150
+#: inc/Helpers/AddListingMananger.php:164
+#: inc/Helpers/AddListingMananger.php:172
+#: inc/Helpers/AddListingMananger.php:179
+#: inc/Helpers/AddListingMananger.php:185
+#: inc/Helpers/AddListingMananger.php:191
+#: inc/Helpers/AddListingMananger.php:197
+#: inc/Helpers/AddListingMananger.php:204
+#: inc/Helpers/AddListingMananger.php:214
+#: inc/Helpers/AddListingMananger.php:228
+#: inc/Helpers/AddListingMananger.php:245
+#: inc/Helpers/AddListingMananger.php:258
+#: inc/Helpers/AddListingMananger.php:264
+#: inc/Helpers/AddListingMananger.php:277
+#: inc/Helpers/AddListingMananger.php:283
+#: inc/Helpers/AddListingMananger.php:296
+#: inc/Helpers/AddListingMananger.php:303
+#: inc/Helpers/AddListingMananger.php:316
+#: inc/Helpers/AddListingMananger.php:322
+#: inc/Helpers/AddListingMananger.php:327
+#: inc/Helpers/AddListingMananger.php:332
+#: inc/Helpers/AddListingMananger.php:348
+#: inc/Helpers/AddListingMananger.php:361
+#: inc/Helpers/AddListingMananger.php:367
+#: inc/Helpers/AddListingMananger.php:372
+#: inc/Helpers/AddListingMananger.php:377 inc/Widgets/PostsGrid.php:51
+#: inc/Widgets/PostsGrid.php:129 inc/Widgets/Info.php:60
+#: inc/Widgets/Info.php:128 inc/Widgets/ListingsCategoriesMasonry.php:93
+#: inc/Widgets/ListingsCategoriesMasonry.php:265
+#: inc/Widgets/LoginRegister.php:56 inc/Widgets/LoginRegister.php:111
+#: inc/Widgets/DealersList.php:163 inc/Widgets/IconCounter.php:60
+#: inc/Widgets/IconCounter.php:196 inc/Widgets/ListingsCarousel.php:63
+#: inc/Widgets/ListingsCarousel.php:259
+#: inc/Widgets/InventorySearchFilter.php:87
+#: inc/Widgets/InventorySearchFilter.php:197
+#: inc/Widgets/InventorySearchFilter.php:219 inc/Widgets/Accordion.php:48
+#: inc/Widgets/InventorySearchResults.php:54 inc/Widgets/PlayVideo.php:45
+#: inc/Widgets/ListingsCompare.php:67 inc/Widgets/LoanCalculator.php:52
+#: inc/Widgets/ContactTabs.php:52 inc/Widgets/ListingSearchTabs.php:427
+#: inc/Widgets/GoogleMap.php:43 inc/Widgets/CarListingTabs.php:83
+#: inc/Widgets/CarListingTabs.php:311 inc/Widgets/ImageCategories.php:103
+#: inc/Widgets/ImageCategories.php:443 inc/Widgets/ListingsGridTabs.php:181
+#: inc/Widgets/AddListing.php:71 inc/Widgets/ListingsList.php:53
+#: inc/Widgets/ImageCarousel.php:57 inc/Widgets/ListingsGrid.php:51
+#: inc/Widgets/HeroSlider.php:72 inc/Widgets/InventorySortBy.php:52
+#: inc/Widgets/PricingPlan.php:77 inc/Widgets/HeroBanner.php:65
+#: inc/Widgets/ContactFormSeven.php:65 inc/Widgets/TeamMember.php:40
+#: inc/Widgets/MultiListing/MultiListingSearchTabs.php:64
+#: inc/Widgets/MultiListing/MultiListingSearchTabs.php:153
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:214
+#: inc/Widgets/MultiListing/MultiListingAddItemButtons.php:55
+#: inc/Widgets/SingleListing/CarMPG.php:40
+#: inc/Widgets/SingleListing/OfferPriceButton.php:47
+#: inc/Widgets/SingleListing/DealerEmail.php:63
+#: inc/Widgets/SingleListing/Features.php:51
+#: inc/Widgets/SingleListing/Features.php:115
+#: inc/Widgets/SingleListing/Similar.php:48
+#: inc/Widgets/SingleListing/Title.php:43
+#: inc/Widgets/SingleListing/ListingSpecifications.php:63
+#: inc/Widgets/SingleListing/ListingSpecifications.php:103
+#: inc/Widgets/SingleListing/Actions.php:53
+#: inc/Widgets/SingleListing/Gallery.php:49
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:65
+#: inc/Widgets/SingleListing/CarGuru.php:43
+#: inc/Widgets/SingleListing/ContactInfo.php:64
+#: inc/Widgets/SingleListing/ContactInfo.php:158
+#: inc/Widgets/SingleListing/SearchResults.php:57
+#: inc/Widgets/SingleListing/Price.php:38
+#: inc/Widgets/SingleListing/ListingData.php:38
+#: inc/Widgets/SingleListing/WhatsApp.php:63
+#: inc/Widgets/SingleListing/ListingMap.php:59
+#: inc/Widgets/SingleListing/ListingMap.php:95
+#: inc/Widgets/SingleListing/TradeInButton.php:42
+#: inc/Widgets/MegaMenu/TopMakesTabs.php:42
+#: inc/Widgets/MegaMenu/TopVehicles.php:44
+#: inc/Widgets/MegaMenu/TopCategories.php:44
+#: inc/Widgets/SingleListing/Classified/Title.php:50
+#: inc/Widgets/SingleListing/Classified/Price.php:38
+#: inc/Widgets/SingleListing/Classified/ListingData.php:48
+#: inc/Widgets/SingleListing/Classified/UserDataSimple.php:44
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:56
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:197
+msgid "General"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:61
+msgid "Genral"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:290
+msgid "Get Started"
+msgstr ""
+
+#: inc/Widgets/GoogleMap.php:35
+msgid "Google Map"
+msgstr ""
+
+#: inc/Widgets/ListingsGridTabs.php:66
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:66
+msgid "Grid Title"
+msgstr ""
+
+#: inc/Widgets/ListingsGrid.php:57
+msgid "Grid title"
+msgstr ""
+
+#: inc/Widgets/SingleListing/ListingSpecifications.php:86
+msgid "Group Title Tag"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:495
+msgid "Header"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:88
+msgid "Header Text"
+msgstr ""
+
+#: inc/Widgets/Accordion.php:56 inc/Widgets/ContactFormSeven.php:80
+#: inc/Widgets/TestimonialsCarousel.php:208
+msgid "Heading 1"
+msgstr ""
+
+#: inc/Widgets/Accordion.php:57 inc/Widgets/ContactFormSeven.php:81
+#: inc/Widgets/TestimonialsCarousel.php:209
+msgid "Heading 2"
+msgstr ""
+
+#: inc/Widgets/Accordion.php:58 inc/Widgets/ContactFormSeven.php:82
+#: inc/Widgets/TestimonialsCarousel.php:210
+msgid "Heading 3"
+msgstr ""
+
+#: inc/Widgets/Accordion.php:59 inc/Widgets/ContactFormSeven.php:83
+#: inc/Widgets/TestimonialsCarousel.php:211
+msgid "Heading 4"
+msgstr ""
+
+#: inc/Widgets/Accordion.php:60 inc/Widgets/ContactFormSeven.php:84
+#: inc/Widgets/TestimonialsCarousel.php:212
+msgid "Heading 5"
+msgstr ""
+
+#: inc/Widgets/Accordion.php:61 inc/Widgets/ContactFormSeven.php:85
+#: inc/Widgets/TestimonialsCarousel.php:213
+msgid "Heading 6"
+msgstr ""
+
+#: inc/Widgets/LoanCalculator.php:132 inc/Widgets/SingleListing/Title.php:48
+#: inc/Widgets/SingleListing/Classified/Title.php:55
+msgid "Heading Tag"
+msgstr ""
+
+#: inc/Widgets/ArrowBanner.php:130
+msgid "Height"
+msgstr ""
+
+#: inc/Widgets/HeroBanner.php:49
+msgid "Hero Banner"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:63
+msgid "Hero Slider"
+msgstr ""
+
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:109
+msgid "Hide"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:154
+msgid "Hide Found Cars block on mobile"
+msgstr ""
+
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:98
+msgid "Hide number"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:190
+msgid "Hide optional fields and show it by clicking on special link"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:194
+#: inc/Widgets/SingleListing/Classified/ListingData.php:74
+#: templates/widgets/single-listing/classified/listing-data.php:37
+#: templates/widgets/single-listing/classified/listing-data.php:47
+#: templates/widgets/add-listing/parts/additional_fields.php:61
+msgid "History"
+msgstr ""
+
+#: inc/Widgets/LoanCalculator.php:121 inc/Widgets/SingleListing/Features.php:63
+msgid "Horizontal"
+msgstr ""
+
+#: inc/Widgets/ArrowBanner.php:96
+msgid "Horizontal Align"
+msgstr ""
+
+#: inc/Widgets/PostsGrid.php:168 inc/Widgets/LoginRegister.php:147
+#: inc/Widgets/DealersList.php:209 inc/Widgets/InventorySearchFilter.php:620
+#: inc/Widgets/InventorySearchFilter.php:877
+#: inc/Widgets/InventorySearchFilter.php:985
+#: inc/Widgets/InventorySearchFilter.php:2341
+#: inc/Widgets/ListingSearchTabs.php:593 inc/Widgets/ListingSearchTabs.php:646
+#: inc/Widgets/CarListingTabs.php:636 inc/Widgets/ListingsGridTabs.php:395
+#: inc/Widgets/PricingPlan.php:727 inc/Widgets/PricingPlan.php:1588
+#: inc/Widgets/PricingPlan.php:1711
+#: inc/Widgets/MultiListing/MultiListingSearchTabs.php:202
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:418
+#: inc/Widgets/SingleListing/DealerEmail.php:170
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:199
+#: inc/Widgets/SingleListing/WhatsApp.php:170
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:410
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:761
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1123
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1521
+msgid "Hover"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://stylemixthemes.com/"
+msgstr ""
+
+#: inc/Widgets/LoginRegister.php:62
+#: templates/widgets/add-listing/parts/registration.php:75
+msgid "I accept the terms of the"
+msgstr ""
+
+#: templates/widgets/login_register.php:121
+#: templates/widgets/add-listing/parts/registration.php:48
+msgid "I have a WhatsApp account with this number"
+msgstr ""
+
+#: inc/Widgets/Info.php:90 inc/Widgets/IconCounter.php:136
+#: inc/Widgets/InventorySearchFilter.php:161 inc/Widgets/Accordion.php:91
+#: inc/Widgets/LoanCalculator.php:148 inc/Widgets/ListingSearchTabs.php:387
+#: inc/Widgets/CarListingTabs.php:226 inc/Widgets/PricingPlan.php:100
+#: inc/Widgets/PricingPlan.php:372 inc/Widgets/ContactFormSeven.php:93
+#: inc/Widgets/SingleListing/CarMPG.php:45
+#: inc/Widgets/SingleListing/DealerEmail.php:76
+#: inc/Widgets/SingleListing/DealerEmail.php:362
+#: inc/Widgets/SingleListing/Features.php:97
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:78
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:474
+#: inc/Widgets/SingleListing/ContactInfo.php:77
+#: inc/Widgets/SingleListing/ContactInfo.php:117
+#: inc/Widgets/SingleListing/WhatsApp.php:76
+#: inc/Widgets/SingleListing/WhatsApp.php:362
+#: inc/Widgets/SingleListing/ListingMap.php:72
+#: inc/Widgets/SingleListing/Classified/Title.php:79
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:70
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:120
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:151
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:173
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:617
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:968
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1378
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1727
+msgid "Icon"
+msgstr ""
+
+#: inc/Widgets/IconCounter.php:166 inc/Widgets/PricingPlan.php:991
+msgid "Icon Alignment"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:886
+msgid "Icon Background"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:896
+msgid "Icon Background Color"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:938
+msgid "Icon Border"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:910
+msgid "Icon Border Radius"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:962
+msgid "Icon Border Width"
+msgstr ""
+
+#: inc/Widgets/IconCounter.php:201 inc/Widgets/InventorySearchFilter.php:500
+#: inc/Widgets/InventorySearchFilter.php:950
+#: inc/Widgets/InventorySearchFilter.php:992
+#: inc/Widgets/InventorySearchFilter.php:1672
+#: inc/Widgets/InventorySearchFilter.php:2203 inc/Widgets/Accordion.php:146
+#: inc/Widgets/ContactTabs.php:374 inc/Widgets/PricingPlan.php:408
+#: inc/Widgets/PricingPlan.php:872 inc/Widgets/ContactFormSeven.php:167
+#: inc/Widgets/TestimonialsCarousel.php:451
+#: inc/Widgets/SingleListing/DealerEmail.php:112
+#: inc/Widgets/SingleListing/DealerEmail.php:188
+#: inc/Widgets/SingleListing/Features.php:145
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:152
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:239
+#: inc/Widgets/SingleListing/WhatsApp.php:112
+#: inc/Widgets/SingleListing/WhatsApp.php:188
+#: inc/Widgets/SingleListing/ListingMap.php:107
+#: inc/Widgets/SingleListing/Classified/ListingData.php:125
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:360
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:441
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:711
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:792
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1049
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1141
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1459
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1539
+msgid "Icon Color"
+msgstr ""
+
+#: inc/Widgets/SingleListing/ContactInfo.php:221
+#: inc/Widgets/SingleListing/ContactInfo.php:305
+msgid "Icon color"
+msgstr ""
+
+#: inc/Widgets/IconCounter.php:51
+msgid "Icon Counter"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:718
+#: inc/Widgets/SingleListing/DealerEmail.php:395
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:507
+#: inc/Widgets/SingleListing/WhatsApp.php:395
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:652
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1003
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1413
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1762
+msgid "Icon Margin"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:845
+msgid "Icon Padding"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:132
+#: inc/Widgets/InventorySearchFilter.php:1234 inc/Widgets/PricingPlan.php:108
+msgid "Icon Position"
+msgstr ""
+
+#: inc/Widgets/Info.php:166 inc/Widgets/DealersList.php:136
+#: inc/Widgets/IconCounter.php:235 inc/Widgets/InventorySearchFilter.php:475
+#: inc/Widgets/InventorySearchFilter.php:693
+#: inc/Widgets/InventorySearchFilter.php:1246
+#: inc/Widgets/InventorySearchFilter.php:2218
+#: inc/Widgets/LoanCalculator.php:174 inc/Widgets/ContactTabs.php:269
+#: inc/Widgets/ListingSearchTabs.php:400 inc/Widgets/PricingPlan.php:385
+#: inc/Widgets/PricingPlan.php:816 inc/Widgets/ContactFormSeven.php:130
+#: inc/Widgets/SingleListing/CarMPG.php:61
+#: inc/Widgets/SingleListing/DealerEmail.php:370
+#: inc/Widgets/SingleListing/Features.php:120
+#: inc/Widgets/SingleListing/ListingSpecifications.php:141
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:482
+#: inc/Widgets/SingleListing/ContactInfo.php:196
+#: inc/Widgets/SingleListing/ContactInfo.php:317
+#: inc/Widgets/SingleListing/WhatsApp.php:370
+#: inc/Widgets/SingleListing/ListingMap.php:128
+#: inc/Widgets/SingleListing/Classified/ListingData.php:100
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:626
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:977
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1387
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1736
+msgid "Icon Size"
+msgstr ""
+
+#: inc/Widgets/Info.php:178
+#: inc/Widgets/SingleListing/ListingSpecifications.php:163
+msgid "Icon Solor"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/ListingData.php:136
+msgid "Icon&Label Wrapper Line Height"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:144
+#: inc/Widgets/TestimonialsCarousel.php:223
+msgid "Image"
+msgstr ""
+
+#: inc/Widgets/ImageCarousel.php:49
+msgid "Image Carousel"
+msgstr ""
+
+#: inc/Widgets/ImageCategories.php:94
+msgid "Image Categories"
+msgstr ""
+
+#: templates/widgets/image-carousel.php:39
+msgid "Image full version"
+msgstr ""
+
+#: inc/Widgets/ImageCarousel.php:70 inc/Widgets/TestimonialsCarousel.php:109
+msgid "Image Size"
+msgstr ""
+
+#: templates/widgets/single-listing/actions.php:77
+msgid "in compare list"
+msgstr ""
+
+#: inc/Widgets/ContactTabs.php:341
+msgid "Inactive Tabs Background Color"
+msgstr ""
+
+#: inc/Widgets/ContactTabs.php:352
+msgid "Inactive Tabs Text Color"
+msgstr ""
+
+#: inc/Widgets/ListingsGridTabs.php:163
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:196
+msgid "Include Featured Listings"
+msgstr ""
+
+#: inc/Widgets/ListingsGridTabs.php:125
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:158
+msgid "Include Popular Listings"
+msgstr ""
+
+#: inc/Widgets/ListingsGridTabs.php:144
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:177
+msgid "Include Recent Listings"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:104 inc/Widgets/ListingsList.php:86
+#: inc/Widgets/ListingsGrid.php:127
+msgid "Include Sold Listings"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:169
+#: inc/Widgets/ListingsCarousel.php:196 inc/Widgets/ImageCategories.php:333
+#: inc/Widgets/ImageCarousel.php:114 inc/Widgets/HeroSlider.php:231
+#: inc/Widgets/TestimonialsCarousel.php:121
+msgid "Infinite Loop"
+msgstr ""
+
+#: inc/Widgets/Info.php:52 inc/Widgets/Info.php:189
+#: inc/Widgets/SingleListing/ListingSpecifications.php:174
+#: inc/Widgets/SingleListing/ContactInfo.php:297
+msgid "Info"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:1216 inc/Widgets/HeroSlider.php:1467
+#: inc/Widgets/HeroBanner.php:797
+msgid "Info Block Background"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:1205 inc/Widgets/HeroBanner.php:776
+msgid "Info Block Border Color"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:104 inc/Widgets/HeroBanner.php:94
+msgid "Info Block Position"
+msgstr ""
+
+#: inc/Widgets/HeroBanner.php:81
+msgid "Info Block Style"
+msgstr ""
+
+#: inc/Widgets/Info.php:119
+msgid "Info Data"
+msgstr ""
+
+#: inc/Widgets/GoogleMap.php:103
+msgid "Info window text"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/additional_fields.php:83
+msgid "Insert link"
+msgstr ""
+
+#: templates/widgets/calculator-vertical.php:56
+#: templates/widgets/calculator-horizontal.php:51
+msgid "Interest rate"
+msgstr ""
+
+#: inc/Widgets/SingleListing/SearchResults.php:198
+msgid "Inventory Link Color"
+msgstr ""
+
+#: inc/Widgets/Info.php:278
+#: inc/Widgets/SingleListing/ListingSpecifications.php:263
+msgid "Item Border"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:347
+msgid "Item Count Typography"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:361
+#: inc/Widgets/ImageCategories.php:617
+msgid "Item Font Color"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:373
+#: inc/Widgets/ImageCategories.php:628
+msgid "Item Font Color on Hover"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:333
+msgid "Item Title Typography"
+msgstr ""
+
+#: inc/Widgets/ImageCategories.php:604
+msgid "Item Typography"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:152
+#: inc/Widgets/PricingPlan.php:420
+#: inc/Widgets/MultiListing/MultiListingSearchTabs.php:108
+msgid "Items"
+msgstr ""
+
+#: inc/Widgets/ImageCategories.php:151
+msgid "Items Align"
+msgstr ""
+
+#: inc/Widgets/ImageCategories.php:122
+msgid "Items Count"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:1477
+msgid "Items Default Icon Color"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:1448
+msgid "Items Default Icon Size"
+msgstr ""
+
+#: inc/Widgets/ImageCategories.php:162
+msgid "Items Margin Bottom"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:464
+msgid "Items Margin Top"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:452
+msgid "Items Text Alignment"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:1491
+msgid "Items Text Color"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:1334
+msgid "Items Typography"
+msgstr ""
+
+#: inc/Widgets/DealersList.php:92 templates/widgets/dealers-list.php:114
+msgid "Keyword"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:122
+#: inc/Helpers/AddListingMananger.php:326 inc/Widgets/LoginRegister.php:61
+#: inc/Widgets/IconCounter.php:128 inc/Widgets/IconCounter.php:306
+#: inc/Widgets/InventorySearchFilter.php:173
+#: inc/Widgets/ListingSearchTabs.php:126 inc/Widgets/ListingSearchTabs.php:286
+#: inc/Widgets/CarListingTabs.php:274
+#: inc/Widgets/SingleListing/OfferPriceButton.php:52
+#: inc/Widgets/SingleListing/DealerEmail.php:68
+#: inc/Widgets/SingleListing/WhatsApp.php:68
+#: inc/Widgets/SingleListing/TradeInButton.php:47
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:111
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:142
+msgid "Label"
+msgstr ""
+
+#: inc/Widgets/IconCounter.php:158
+msgid "Label Alignment"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:833
+#: inc/Widgets/InventorySearchFilter.php:1591
+msgid "Label Background Color"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Similar.php:122
+msgid "Label Border"
+msgstr ""
+
+#: inc/Widgets/IconCounter.php:224 inc/Widgets/InventorySearchFilter.php:822
+#: inc/Widgets/InventorySearchFilter.php:1579
+#: inc/Widgets/CarListingTabs.php:422 inc/Widgets/CarListingTabs.php:453
+#: inc/Widgets/SingleListing/Similar.php:111
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:130
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:217
+#: inc/Widgets/SingleListing/Classified/ListingData.php:197
+msgid "Label Color"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:281
+msgid "Label Icon"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:724 inc/Widgets/CarListingTabs.php:774
+msgid "Label Icon Color"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:300
+msgid "Label Icon Right"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:710 inc/Widgets/CarListingTabs.php:760
+msgid "Label Icon Size"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Similar.php:162
+msgid "Label Margin"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Similar.php:145
+msgid "Label Padding"
+msgstr ""
+
+#: inc/Widgets/IconCounter.php:129
+msgid "Label Placeholder"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:293
+msgid "Label Right"
+msgstr ""
+
+#: inc/Widgets/LoanCalculator.php:232 inc/Widgets/SingleListing/Similar.php:75
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:295
+#: inc/Widgets/SingleListing/Classified/Title.php:140
+#: inc/Widgets/SingleListing/Classified/ListingData.php:166
+msgid "Label Typography"
+msgstr ""
+
+#: inc/Widgets/LoginRegister.php:248
+msgid "Labels Color"
+msgstr ""
+
+#: inc/Widgets/LoanCalculator.php:264
+msgid "Labels color"
+msgstr ""
+
+#: inc/Widgets/LoanCalculator.php:275
+msgid "Labels meta color"
+msgstr ""
+
+#: inc/Helpers/Helper.php:69
+msgid "Large"
+msgstr ""
+
+#: templates/widgets/login_register.php:107
+#: templates/widgets/add-listing/parts/registration.php:36
+msgid "Last Name"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/item_details.php:255
+msgid "Lat and Long Finder"
+msgstr ""
+
+#: inc/Widgets/GoogleMap.php:48
+#: templates/widgets/add-listing/parts/item_details.php:243
+msgid "Latitude"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:90 inc/Widgets/ListingsList.php:72
+#: inc/Widgets/ListingsGrid.php:78
+msgid "Leave empty or input \"-1\" to show infinite number of listings"
+msgstr ""
+
+#: inc/Widgets/PostsGrid.php:60
+msgid "Leave empty or input \"-1\" to show infinite number of posts"
+msgstr ""
+
+#: inc/Widgets/ListingsGridTabs.php:88 inc/Widgets/ListingsGridTabs.php:100
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:139
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:151
+msgid "Leave empty to show default number of listings"
+msgstr ""
+
+#: inc/Widgets/GoogleMap.php:80 inc/Widgets/SingleListing/ListingMap.php:89
+msgid "Leave empty to use default pin icon from Google"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:469 inc/Widgets/ColoredSeparator.php:55
+#: inc/Widgets/HeroSlider.php:108 inc/Widgets/PricingPlan.php:111
+#: inc/Widgets/PricingPlan.php:245 inc/Widgets/HeroBanner.php:97
+#: inc/Widgets/Controls/StyleControls/AlignControl.php:27
+#: inc/Widgets/Controls/StyleControls/AlignControl.php:73
+#: inc/Widgets/Controls/StyleControls/AlignControl.php:119
+#: inc/Widgets/Controls/StyleControls/AlignControl.php:165
+msgid "Left"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:182
+msgid "Left Middle"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:703
+msgid "Left Part"
+msgstr ""
+
+#: inc/Widgets/ImageCarousel.php:107
+msgid "Lightbox"
+msgstr ""
+
+#: inc/Widgets/IconCounter.php:172
+msgid "Lines Gap"
+msgstr ""
+
+#: inc/Widgets/LoginRegister.php:97
+msgid "Link"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:961
+#: inc/Widgets/InventorySearchFilter.php:1003
+#: inc/Widgets/InventorySearchFilter.php:1684
+msgid "Link Color"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:130 inc/Widgets/ListingsGrid.php:92
+msgid "Link Icon"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:264 inc/Widgets/ListingsGrid.php:151
+msgid "Link Icon Size"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:141 inc/Widgets/ListingsGrid.php:102
+msgid "Link label"
+msgstr ""
+
+#: inc/Widgets/LoginRegister.php:69
+msgid "Link Name"
+msgstr ""
+
+#: inc/Widgets/PlayVideo.php:50
+msgid "Link to Video"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:151 inc/Widgets/ListingsGrid.php:112
+msgid "Link URL"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:329
+msgid "Listing Card"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:84
+msgid "Listing Categories Masonry"
+msgstr ""
+
+#: inc/Widgets/ListingsGrid.php:287
+msgid "Listing Category Icons Color"
+msgstr ""
+
+#: inc/Widgets/ListingsGrid.php:298
+msgid "Listing Category Name Color"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/item_details.php:32
+msgid "Listing Item Details"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/item_details.php:225
+msgid "Listing item Location"
+msgstr ""
+
+#: inc/Widgets/SingleListing/ListingMap.php:51
+msgid "Listing Map"
+msgstr ""
+
+#: inc/Widgets/ListingsGrid.php:217
+msgid "Listing Meta Background Color"
+msgstr ""
+
+#: inc/Widgets/ListingsGrid.php:227
+msgid "Listing Meta Line Color"
+msgstr ""
+
+#: inc/Widgets/ListingsGrid.php:247
+#: inc/Widgets/SingleListing/SearchResults.php:163
+msgid "Listing Normal Price Text Color"
+msgstr ""
+
+#: inc/Helpers/TemplateManager.php:89
+msgid "Listing Page Template"
+msgstr ""
+
+#: inc/Widgets/ListingsGrid.php:237
+#: inc/Widgets/SingleListing/SearchResults.php:142
+msgid "Listing Price Background Color"
+msgstr ""
+
+#: inc/Widgets/SingleListing/SearchResults.php:152
+msgid "Listing Price Label Color"
+msgstr ""
+
+#: inc/Widgets/ListingsGrid.php:257
+#: inc/Widgets/SingleListing/SearchResults.php:176
+msgid "Listing Regular Price Text Color"
+msgstr ""
+
+#: inc/Widgets/SingleListing/ListingSpecifications.php:55
+msgid "Listing Specifications"
+msgstr ""
+
+#: templates/widgets/inventory-search-filter.php:122
+msgid "Listing status"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:79
+msgid "Listing Tabs"
+msgstr ""
+
+#: inc/Helpers/TemplateManager.php:94
+msgid "Listing Template"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/title.php:17
+msgid "Listing Title"
+msgstr ""
+
+#: inc/Widgets/ListingsGrid.php:267
+#: inc/Widgets/SingleListing/SearchResults.php:187
+msgid "Listing Title Color"
+msgstr ""
+
+#: inc/Widgets/ListingsGrid.php:277
+msgid "Listing Title Label Color"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:94
+#: inc/Widgets/InventorySearchResults.php:61 inc/Widgets/AddListing.php:78
+msgid "Listing Type"
+msgstr ""
+
+#: inc/Widgets/MultiListing/MultiListingSearchTabs.php:79
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:84
+msgid "Listing type"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:76 inc/Widgets/ListingsGridTabs.php:74
+#: inc/Widgets/ListingsList.php:58 inc/Widgets/ListingsGrid.php:64
+msgid "Listing Types"
+msgstr ""
+
+#: inc/Helpers/Helper.php:297 inc/Helpers/Helper.php:326
+#: templates/widgets/inventory-search-filter.php:62
+msgid "Listings"
+msgstr ""
+
+#: inc/Helpers/Helper.php:154
+msgid "Listings (default)"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:107
+msgid "Listings Amount of Category"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:55
+msgid "Listings Carousel"
+msgstr ""
+
+#: inc/Widgets/ListingsCompare.php:46
+msgid "Listings Compare"
+msgstr ""
+
+#: inc/Widgets/ListingsGrid.php:43
+msgid "Listings Grid"
+msgstr ""
+
+#: inc/Widgets/ListingsGridTabs.php:52
+msgid "Listings Grid Tabs"
+msgstr ""
+
+#: inc/Widgets/ListingsList.php:45
+msgid "Listings List"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:159
+msgid "Listings Per View"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:94
+msgid "Listings Search Tabs"
+msgstr ""
+
+#: templates/widgets/car-listing-tabs.php:189
+msgid "Load more"
+msgstr ""
+
+#: inc/Widgets/LoanCalculator.php:44 inc/Widgets/LoanCalculator.php:106
+msgid "Loan Calculator"
+msgstr ""
+
+#: templates/widgets/calculator-vertical.php:65
+#: templates/widgets/calculator-horizontal.php:60
+msgid "Loan Term"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:211 inc/Helpers/Helper.php:140
+#: inc/Widgets/DealersList.php:89
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:164
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1434
+#: templates/widgets/add-listing/parts/item_details.php:231
+msgid "Location"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/registered.php:37
+#: templates/widgets/add-listing/parts/user_info.php:42
+#: templates/widgets/add-listing/parts/user_info.php:74
+msgid "Log out"
+msgstr ""
+
+#: templates/widgets/login_register.php:64
+msgid "Login"
+msgstr ""
+
+#: templates/widgets/login_register.php:133
+#: templates/widgets/add-listing/parts/registration.php:59
+msgid "Login *"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/registration.php:10
+msgid "Login Here"
+msgstr ""
+
+#: templates/widgets/login_register.php:41
+#: templates/widgets/login_register.php:71
+#: templates/widgets/add-listing/parts/check_user.php:74
+msgid "Login or E-mail"
+msgstr ""
+
+#: inc/Widgets/LoginRegister.php:37
+msgid "Login Register"
+msgstr ""
+
+#: inc/Widgets/GoogleMap.php:58
+#: templates/widgets/add-listing/parts/item_details.php:250
+msgid "Longitude"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:214
+msgid "Main"
+msgstr ""
+
+#: inc/Helpers/Helper.php:116
+msgid "Make"
+msgstr ""
+
+#: inc/Widgets/SingleListing/OfferPriceButton.php:53
+msgid "Make an Offer Price"
+msgstr ""
+
+#: inc/Widgets/GoogleMap.php:146
+msgid "Map Height"
+msgstr ""
+
+#: inc/Widgets/GoogleMap.php:170
+msgid "Map Style"
+msgstr ""
+
+#: inc/Widgets/GoogleMap.php:116
+msgid "Map Width"
+msgstr ""
+
+#: inc/Widgets/ListingsGridTabs.php:212
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:256
+msgid "Margin"
+msgstr ""
+
+#: inc/Helpers/Helper.php:420 inc/Helpers/Helper.php:455
+msgid "Max"
+msgstr ""
+
+#: inc/Helpers/Helper.php:68
+msgid "Medium"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:112
+msgid "Message To Dealer"
+msgstr ""
+
+#: inc/Widgets/SingleListing/DealerEmail.php:69
+msgid "Message Us"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:401
+msgid "Meta Background Color"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:421
+msgid "Meta Box Padding"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:411
+msgid "Meta Line Color"
+msgstr ""
+
+#: inc/Helpers/Helper.php:119
+msgid "Mileage"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:80
+#: inc/Widgets/SingleListing/SearchResults.php:83
+msgid "Minimum width: 1024px."
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:95
+#: inc/Widgets/SingleListing/SearchResults.php:101
+msgid "Minimum width: 768px."
+msgstr ""
+
+#: inc/Widgets/MultiListing/MultiListingAddItemButtons.php:46
+msgid "MLT Add Item Buttons"
+msgstr ""
+
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:52
+msgid "MLT Listings Grid Tabs"
+msgstr ""
+
+#: inc/Widgets/MultiListing/MultiListingSearchTabs.php:55
+msgid "MLT Search Tabs"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:181
+msgid "Mobile Result Button"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:1185
+msgid "Mobile Settings"
+msgstr ""
+
+#: inc/Helpers/Helper.php:117
+msgid "Model"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:498 inc/Widgets/HeroSlider.php:959
+#: inc/Widgets/HeroBanner.php:500
+msgid "Month"
+msgstr ""
+
+#: templates/widgets/calculator-vertical.php:66
+#: templates/widgets/calculator-horizontal.php:61
+msgid "month"
+msgstr ""
+
+#: templates/widgets/calculator-vertical.php:92
+#: templates/widgets/calculator-horizontal.php:84
+msgid "Monthly Payment"
+msgstr ""
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "Motors Elementor Widgets"
+msgstr ""
+
+#: templates/widgets/single-listing/classified/listing-data.php:28
+#: templates/widgets/single-listing/classified/listing-data.php:48
+#: templates/widgets/single-listing/classified/listing-data.php:67
+#: templates/widgets/single-listing/classified/listing-data.php:130
+msgid "N/A"
+msgstr ""
+
+#: inc/Widgets/TeamMember.php:62
+msgid "Name"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:190
+#: inc/Widgets/ListingsCarousel.php:253 inc/Widgets/ListingsCarousel.php:511
+#: inc/Widgets/ImageCategories.php:418 inc/Widgets/ImageCarousel.php:185
+#: inc/Widgets/TestimonialsCarousel.php:197
+msgid "Navigation"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:385
+#: inc/Widgets/ImageCategories.php:639
+#: inc/Widgets/SingleListing/SearchResults.php:209
+msgid "Navigation Background Color"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:399
+#: inc/Widgets/ImageCategories.php:654
+msgid "Navigation Background Color On Hover"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:516
+msgid "Navigation Color"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:527
+msgid "Navigation Hover Color"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:413
+#: inc/Widgets/ImageCategories.php:669
+#: inc/Widgets/SingleListing/SearchResults.php:220
+msgid "Navigation Icon Color"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:427
+#: inc/Widgets/ImageCategories.php:684
+msgid "Navigation Icon Color On Hover"
+msgstr ""
+
+#: inc/Widgets/ImageCategories.php:428
+msgid "Navigation Style"
+msgstr ""
+
+#: inc/Widgets/ListingsGridTabs.php:67
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:67
+msgid "New/Used Cars"
+msgstr ""
+
+#: inc/Widgets/ListingsGridTabs.php:109 inc/Widgets/ListingsGridTabs.php:127
+#: inc/Widgets/ListingsGridTabs.php:146 inc/Widgets/ListingsGridTabs.php:165
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:160
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:179
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:198
+msgid "No"
+msgstr ""
+
+#. post type name
+#: templates/widgets/inventory-search-filter.php:75
+#, php-format
+msgid "No categories created for %s"
+msgstr ""
+
+#: templates/widgets/dealers-list.php:175
+msgid "No dealers on your search parameters"
+msgstr ""
+
+#: templates/widgets/listings-compare.php:276
+#: templates/widgets/listings-compare.php:280
+msgid "None"
+msgstr ""
+
+#: inc/Widgets/PostsGrid.php:138 inc/Widgets/LoginRegister.php:118
+#: inc/Widgets/DealersList.php:180 inc/Widgets/InventorySearchFilter.php:273
+#: inc/Widgets/InventorySearchFilter.php:549
+#: inc/Widgets/InventorySearchFilter.php:854
+#: inc/Widgets/InventorySearchFilter.php:943
+#: inc/Widgets/InventorySearchFilter.php:1041
+#: inc/Widgets/InventorySearchFilter.php:1401
+#: inc/Widgets/InventorySearchFilter.php:1727
+#: inc/Widgets/InventorySearchFilter.php:2276
+#: inc/Widgets/InventorySearchResults.php:115
+#: inc/Widgets/ListingSearchTabs.php:484 inc/Widgets/ListingSearchTabs.php:573
+#: inc/Widgets/ListingSearchTabs.php:617 inc/Widgets/CarListingTabs.php:404
+#: inc/Widgets/CarListingTabs.php:617 inc/Widgets/ListingsGridTabs.php:296
+#: inc/Widgets/ListingsGridTabs.php:366 inc/Widgets/ListingsList.php:117
+#: inc/Widgets/PricingPlan.php:697 inc/Widgets/PricingPlan.php:1513
+#: inc/Widgets/PricingPlan.php:1666
+#: inc/Widgets/MultiListing/MultiListingSearchTabs.php:173
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:319
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:389
+#: inc/Widgets/SingleListing/DealerEmail.php:94
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:112
+#: inc/Widgets/SingleListing/WhatsApp.php:94
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:329
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:680
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1031
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1441
+msgid "Normal"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:381
+msgid "Normal Price Text Color"
+msgstr ""
+
+#: inc/Widgets/IconCounter.php:260
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:91
+msgid "Number"
+msgstr ""
+
+#: inc/Widgets/MultiListing/MultiListingSearchTabs.php:146
+msgid "Number affix"
+msgstr ""
+
+#: inc/Widgets/IconCounter.php:213
+msgid "Number Color"
+msgstr ""
+
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:90
+msgid "Number Label"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:238
+msgid "Number of Filter Columns"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:79
+#: inc/Widgets/SingleListing/SearchResults.php:82
+msgid "Number of Items on Desktop"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:94
+#: inc/Widgets/SingleListing/SearchResults.php:100
+msgid "Number of Items on Tablet"
+msgstr ""
+
+#: inc/Widgets/ListingsGridTabs.php:95
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:146
+msgid "Number Of Listings Per Row"
+msgstr ""
+
+#: inc/Widgets/ListingsGridTabs.php:84
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:135
+msgid "Number Of Listings Per Tab"
+msgstr ""
+
+#: inc/Widgets/PostsGrid.php:56
+msgid "Number of Posts"
+msgstr ""
+
+#: inc/Widgets/ImageCarousel.php:80
+msgid "Number of Visible Items"
+msgstr ""
+
+#: inc/Widgets/IconCounter.php:81
+msgid "Number Prefix"
+msgstr ""
+
+#: inc/Widgets/MultiListing/MultiListingSearchTabs.php:139
+msgid "Number prefix"
+msgstr ""
+
+#: inc/Widgets/IconCounter.php:89
+msgid "Number Suffix"
+msgstr ""
+
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:331
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:367
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1225
+msgid "Number Typography"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:146 inc/Widgets/LoanCalculator.php:162
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:63
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:94
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:104
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:135
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:166
+msgid "Off"
+msgstr ""
+
+#: inc/Widgets/SingleListing/OfferPriceButton.php:39
+msgid "Offer Price Button"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:145 inc/Widgets/LoanCalculator.php:161
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:62
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:93
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:103
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:134
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:165
+msgid "On"
+msgstr ""
+
+#: inc/Widgets/SingleListing/ListingSpecifications.php:71
+msgid "One Column"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:97 inc/Widgets/ListingsList.php:79
+#: inc/Widgets/ListingsGrid.php:120
+msgid "Only Featured Listings"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/UserDataSimple.php:146
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:299
+msgid "Only for User Role Dealer"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/UserDataSimple.php:97
+#: inc/Widgets/SingleListing/Classified/UserDataSimple.php:109
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:250
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:262
+msgid "Only for User Role Subscriber"
+msgstr ""
+
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:93
+msgid "Order items by"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:86 inc/Widgets/ListingsList.php:68
+#: inc/Widgets/ListingsGrid.php:74
+msgid "Overall Number of Listings"
+msgstr ""
+
+#: inc/Widgets/ListingsGridTabs.php:254
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:298
+#: inc/Widgets/SingleListing/DealerEmail.php:345
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:457
+#: inc/Widgets/SingleListing/WhatsApp.php:345
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:599
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:950
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1360
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1709
+msgid "Padding"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:246
+#: inc/Widgets/InventorySearchResults.php:105 inc/Widgets/ListingsList.php:104
+#: inc/Widgets/ImageCarousel.php:178
+msgid "Pagination"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:548
+msgid "Pagination Active Bullet Color"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:538
+msgid "Pagination Bullets Color"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:933
+#: inc/Widgets/InventorySearchFilter.php:1663
+msgid "Params as Links"
+msgstr ""
+
+#: templates/widgets/login_register.php:46
+#: templates/widgets/add-listing/parts/check_user.php:79
+msgid "Password"
+msgstr ""
+
+#: templates/widgets/login_register.php:138
+#: templates/widgets/add-listing/parts/registration.php:63
+msgid "Password *"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:241
+#: inc/Widgets/ListingsCarousel.php:228 inc/Widgets/ImageCategories.php:394
+#: inc/Widgets/ImageCarousel.php:160 inc/Widgets/HeroSlider.php:272
+#: inc/Widgets/TestimonialsCarousel.php:179
+msgid "Pause on Mouseover"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/check_user.php:134
+msgid "Pay for Listing"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/check_user.php:130
+msgid "Pay for this Listing"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Gallery.php:96
+msgid "PDF"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Actions.php:100
+msgid "PDF Brochure"
+msgstr ""
+
+#: templates/widgets/single-listing/actions.php:100
+msgid "PDF brochure"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:572 inc/Widgets/HeroSlider.php:1033
+#: inc/Widgets/HeroBanner.php:594
+msgid "Per Month Color"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:143 inc/Widgets/HeroBanner.php:130
+msgid "Per Month Title"
+msgstr ""
+
+#: inc/Widgets/LoanCalculator.php:76
+msgid "Percent"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:161 inc/Widgets/HeroSlider.php:535
+#: inc/Widgets/HeroSlider.php:996 inc/Widgets/HeroBanner.php:147
+#: inc/Widgets/HeroBanner.php:547
+msgid "Period"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:1317
+msgid "Period Color"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:279
+msgid "Period Text"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:1157
+msgid "Period Typography"
+msgstr ""
+
+#: inc/Helpers/Helper.php:115 inc/Widgets/TeamMember.php:86
+#: inc/Widgets/SingleListing/ContactInfo.php:132
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:61
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1024
+msgid "Phone"
+msgstr ""
+
+#: inc/Widgets/TeamMember.php:119
+msgid "Phone Button Background Color"
+msgstr ""
+
+#: inc/Widgets/TeamMember.php:129
+msgid "Phone Button Text Color"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1062
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1154
+msgid "Phone Color"
+msgstr ""
+
+#: inc/Widgets/TeamMember.php:139
+msgid "Phone Icon Color"
+msgstr ""
+
+#: templates/widgets/login_register.php:115
+#: templates/widgets/add-listing/parts/registration.php:43
+msgid "Phone number"
+msgstr ""
+
+#: inc/Helpers/Helper.php:121 inc/Widgets/TeamMember.php:45
+msgid "Photo"
+msgstr ""
+
+#: inc/Widgets/TeamMember.php:52
+msgid "Photo Size"
+msgstr ""
+
+#: inc/Widgets/SingleListing/ListingMap.php:87
+msgid "Pin Image"
+msgstr ""
+
+#: inc/Widgets/GoogleMap.php:78
+msgid "Pin image"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:134 inc/Widgets/ListingSearchTabs.php:294
+#: templates/widgets/single-listing/gallery.php:33
+msgid "Placeholder"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:82
+msgid "Plan Title"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:79
+msgid "Plans"
+msgstr ""
+
+#: inc/Widgets/PlayVideo.php:32
+msgid "Play Video"
+msgstr ""
+
+#: templates/widgets/calculator-vertical.php:168
+#: templates/widgets/calculator-horizontal.php:173
+msgid "Please fill Down Payment field"
+msgstr ""
+
+#: templates/widgets/calculator-vertical.php:158
+#: templates/widgets/calculator-horizontal.php:163
+msgid "Please fill Interest Rate field"
+msgstr ""
+
+#: templates/widgets/calculator-vertical.php:163
+#: templates/widgets/calculator-horizontal.php:168
+msgid "Please fill Period field"
+msgstr ""
+
+#: templates/widgets/calculator-vertical.php:153
+#: templates/widgets/calculator-horizontal.php:158
+msgid "Please fill Vehicle Price field"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/item_plans.php:44
+msgid "Please, log in to view your available plans"
+msgstr ""
+
+#: inc/Widgets/IconCounter.php:90
+msgid "Plus"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:170
+msgid "Popular"
+msgstr ""
+
+#: inc/Widgets/ListingsGridTabs.php:136
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:169
+msgid "Popular items"
+msgstr ""
+
+#: inc/Widgets/ListingsGridTabs.php:135
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:168
+msgid "Popular Tab Label"
+msgstr ""
+
+#: templates/widgets/dealers-list.php:30
+msgid "Popularity"
+msgstr ""
+
+#: inc/Widgets/TeamMember.php:70
+msgid "Position"
+msgstr ""
+
+#: inc/Widgets/PostsGrid.php:43
+msgid "Posts Grid"
+msgstr ""
+
+#: inc/Widgets/InventorySearchResults.php:80
+msgid "Posts Per Page on Grid View"
+msgstr ""
+
+#: inc/Widgets/InventorySearchResults.php:72
+msgid "Posts Per Page on List View"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:433
+msgid "Premium Listing Credit"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:223
+msgid "Previous/Next Buttons"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:74 inc/Helpers/AddListingMananger.php:313
+#: inc/Widgets/HeroSlider.php:125 inc/Widgets/HeroSlider.php:401
+#: inc/Widgets/HeroSlider.php:862 inc/Widgets/PricingPlan.php:262
+#: inc/Widgets/PricingPlan.php:1002 inc/Widgets/HeroBanner.php:113
+#: inc/Widgets/HeroBanner.php:363 templates/widgets/listings-compare.php:229
+#: inc/Widgets/SingleListing/Price.php:34
+#: templates/widgets/add-listing/parts/item_price.php:44
+#: templates/widgets/add-listing/parts/item_price.php:72
+msgid "Price"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:144
+msgid "Price As Single Block"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:354
+msgid "Price Background Color"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:346 inc/Widgets/HeroSlider.php:807
+#: inc/Widgets/HeroBanner.php:260
+msgid "Price Block Margin"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:364
+msgid "Price Box Padding"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/Price.php:34
+msgid "Price Classified"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:439 inc/Widgets/HeroSlider.php:900
+#: inc/Widgets/PricingPlan.php:1278 inc/Widgets/HeroBanner.php:411
+msgid "Price Color"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:196
+msgid "Price Separator"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:1221
+msgid "Price Separator Color"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:205
+msgid "Price Separator Height"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:1007
+msgid "Price Typography"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:61
+msgid "Pricing Plan"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Gallery.php:54
+msgid "Print"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Actions.php:65
+msgid "Print Button"
+msgstr ""
+
+#: templates/widgets/single-listing/actions.php:133
+msgid "Print page"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/registered.php:26
+#: templates/widgets/add-listing/parts/user_info.php:65
+msgid "Private Seller"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Actions.php:58
+msgid "Published Date"
+msgstr ""
+
+#: inc/Widgets/InventorySearchResults.php:88
+msgid "Quantity of Listing Per Row on Grid View"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:202
+msgid "Range Slider Control Color"
+msgstr ""
+
+#: inc/Widgets/ListingsGridTabs.php:155
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:188
+msgid "Recent items"
+msgstr ""
+
+#: inc/Widgets/ListingsGridTabs.php:154
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:187
+msgid "Recent Tab Label"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:85 inc/Widgets/HeroSlider.php:1226
+msgid "Rectangle content"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:319 inc/Widgets/ListingsGrid.php:206
+msgid "Redirect Link Icon Color"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:309 inc/Widgets/ListingsGrid.php:196
+msgid "Redirect Link Text Color"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:123 inc/Widgets/ListingsGrid.php:85
+msgid "Redirect Link to Search Results"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:360
+msgid "Register/Login"
+msgstr ""
+
+#: templates/widgets/single-listing/classified/listing-data.php:18
+#: templates/widgets/single-listing/classified/listing-data.php:27
+#: templates/widgets/add-listing/parts/additional_fields.php:30
+msgid "Registered"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:182
+#: inc/Widgets/SingleListing/Classified/ListingData.php:67
+msgid "Registered Date"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:391
+msgid "Regular Price Text Color"
+msgstr ""
+
+#: inc/Widgets/InventorySearchResults.php:89
+msgid "Reload the page to apply the settings."
+msgstr ""
+
+#: templates/widgets/login_register.php:53
+#: templates/widgets/add-listing/parts/check_user.php:86
+msgid "Remember me"
+msgstr ""
+
+#: templates/widgets/listings-compare.php:160
+msgid "Remove from compare"
+msgstr ""
+
+#: templates/widgets/listings-compare.php:124
+#: templates/widgets/listings-compare.php:221
+#: templates/widgets/single-listing/actions.php:80
+msgid "Remove from list"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:168
+msgid "Required Categories"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:367
+msgid "Required fields: Email, Phone, Make and Model"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:174
+msgid "Reset All"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:154
+#: inc/Widgets/InventorySearchFilter.php:539
+#: inc/Widgets/InventorySearchFilter.php:2138
+msgid "Reset Button"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:606
+msgid "Reset Button Color"
+msgstr ""
+
+#: templates/widgets/car-listing-tabs.php:299
+msgid "Reset search fields"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:2004
+msgid "Result buttons"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:253
+#: inc/Widgets/ListingsCarousel.php:237 inc/Widgets/ImageCategories.php:406
+#: inc/Widgets/ImageCarousel.php:169 inc/Widgets/TestimonialsCarousel.php:188
+msgid "Reverse Direction"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/UserDataSimple.php:145
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:298
+msgid "Review Amount Color"
+msgstr ""
+
+#: templates/widgets/dealers-list.php:27
+msgid "Reviews"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:470 inc/Widgets/ColoredSeparator.php:57
+#: inc/Widgets/HeroSlider.php:109 inc/Widgets/PricingPlan.php:113
+#: inc/Widgets/PricingPlan.php:249 inc/Widgets/HeroBanner.php:98
+#: inc/Widgets/Controls/StyleControls/AlignControl.php:35
+#: inc/Widgets/Controls/StyleControls/AlignControl.php:81
+#: inc/Widgets/Controls/StyleControls/AlignControl.php:127
+#: inc/Widgets/Controls/StyleControls/AlignControl.php:173
+msgid "Right"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:183
+msgid "Right Middle"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:753
+msgid "Right Part"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:84 inc/Widgets/HeroSlider.php:743
+msgid "Rounded content"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Features.php:74
+msgid "Rows"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/item_price.php:52
+msgid "Sale Price"
+msgstr ""
+
+#: inc/Widgets/ContactTabs.php:179
+msgid "Sales Hours Content"
+msgstr ""
+
+#: inc/Widgets/ContactTabs.php:156
+msgid "Sales Hours Icon"
+msgstr ""
+
+#: inc/Widgets/ContactTabs.php:169
+msgid "Sales Hours Title"
+msgstr ""
+
+#: inc/Widgets/ContactTabs.php:139
+msgid "Sales Phone Content"
+msgstr ""
+
+#: inc/Widgets/ContactTabs.php:116
+msgid "Sales Phone Icon"
+msgstr ""
+
+#: inc/Widgets/ContactTabs.php:129
+msgid "Sales Phone Title"
+msgstr ""
+
+#: templates/widgets/single-listing/actions.php:63
+msgid "Schedule Test Drive"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:210 inc/Widgets/CarListingTabs.php:219
+#: templates/widgets/car-listing-tabs.php:295
+#: inc/Widgets/MultiListing/MultiListingSearchTabs.php:101
+msgid "Search"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:1194
+msgid "Search Button"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:588
+msgid "Search Button Background"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:598
+msgid "Search Button Box Shadow"
+msgstr ""
+
+#: inc/Widgets/MultiListing/MultiListingSearchTabs.php:99
+msgid "Search button label"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:379
+msgid "Search button postfix"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:577
+msgid "Search Button Text"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:62
+msgid "Search Filter"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:1329
+msgid "Search Filter Header"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:1336
+msgid "Search Heading Color"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:565
+msgid "Search Icon Color"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:546
+msgid "Search Icon Margin"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:521
+msgid "Search Icon Size"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:218
+msgid "Search Label"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:510
+msgid "Search Label Color"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:125
+msgid "Search Options"
+msgstr ""
+
+#: inc/Widgets/InventorySearchResults.php:46
+msgid "Search Result"
+msgstr ""
+
+#: templates/widgets/single-listing/search-results.php:22
+msgid "Search results"
+msgstr ""
+
+#: inc/Widgets/SingleListing/SearchResults.php:49
+msgid "Search results carousel"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:150 inc/Widgets/ListingsGrid.php:111
+msgid "Search Results Link"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:140 inc/Widgets/ListingsGrid.php:101
+msgid "Search Results Link Label"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:205 inc/Widgets/CarListingTabs.php:505
+msgid "Search Tab"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:207
+msgid "Search Tabs"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:797
+msgid "Secondary"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:1548
+msgid "Secondary Block Settings"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/item_details.php:82
+#: templates/widgets/add-listing/parts/item_details.php:116
+#: templates/widgets/add-listing/parts/item_details.php:122
+#: templates/widgets/add-listing/parts/item_details.php:194
+msgid "Select"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/item_details.php:163
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: inc/Widgets/MultiListing/MultiListingSearchTabs.php:132
+msgid "Select affix"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/item_seller_note.php:32
+msgid "Select all the phrases that apply to your vehicle."
+msgstr ""
+
+#: inc/Widgets/DealersList.php:97 inc/Widgets/MegaMenu/TopMakesTabs.php:59
+#: inc/Widgets/MegaMenu/TopCategories.php:56
+msgid "Select Categories"
+msgstr ""
+
+#: inc/Widgets/ImageCategories.php:114
+msgid "Select Category"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:253
+msgid "Select Filter Options"
+msgstr ""
+
+#: inc/Helpers/TemplateManager.php:91
+msgid "Select listing page template"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:121
+msgid "Select Parameter"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/item_plans.php:22
+msgid "Select Plan"
+msgstr ""
+
+#: inc/Widgets/MultiListing/MultiListingSearchTabs.php:125
+msgid "Select prefix"
+msgstr ""
+
+#: inc/Widgets/MultiListing/MultiListingSearchTabs.php:88
+msgid "Select Taxonomies, which will be in this tab as filter"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/item_features.php:12
+msgid "Select Your Car Features"
+msgstr ""
+
+#: inc/Widgets/SellYourCar.php:31
+msgid "Sell Your Car"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:70 inc/Helpers/AddListingMananger.php:293
+msgid "Seller Note"
+msgstr ""
+
+#: templates/widgets/login_register.php:78
+msgid "Send password"
+msgstr ""
+
+#: inc/Widgets/IconCounter.php:113
+msgid "Separator"
+msgstr ""
+
+#: inc/Widgets/ColoredSeparator.php:40
+msgid "Separator Color"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:774 inc/Widgets/PricingPlan.php:1235
+msgid "Separator Hover"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:791 inc/Widgets/PricingPlan.php:1252
+msgid "Separator Narrow Effect"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:802 inc/Widgets/PricingPlan.php:1263
+msgid "Separator Title Color Hover"
+msgstr ""
+
+#: inc/Widgets/LoginRegister.php:70
+msgid "service"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:174 inc/Widgets/ImageCarousel.php:100
+#: inc/Widgets/TestimonialsCarousel.php:132
+msgid "Set numbers of slides to define and enable group sliding"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/item_price.php:27
+msgid "Set Your Asking Price"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Gallery.php:70
+msgid "Share"
+msgstr ""
+
+#: templates/widgets/single-listing/actions.php:114
+#: templates/widgets/single-listing/actions.php:117
+msgid "Share this"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Actions.php:93
+msgid "Sharing"
+msgstr ""
+
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:108
+msgid "Show"
+msgstr ""
+
+#: inc/Widgets/ListingsGridTabs.php:117
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:117
+msgid "Show All"
+msgstr ""
+
+#: templates/widgets/car-listing-tabs.php:200
+msgid "Show all"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:267
+msgid "Show Car Reviews Tab"
+msgstr ""
+
+#: inc/Widgets/MultiListing/MultiListingSearchTabs.php:118
+msgid "Show Category Listings amount"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:146
+msgid "Show Found Cars block"
+msgstr ""
+
+#: templates/widgets/dealers-list.php:170
+msgid "Show more"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/registered.php:33
+#: templates/widgets/add-listing/parts/user_info.php:38
+#: templates/widgets/add-listing/parts/user_info.php:71
+msgid "Show my Public Profile"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:84
+msgid "Show Number"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1074
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1166
+msgid "Show Number Color"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:83
+msgid "Show Number Label"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1262
+msgid "Show Number Typography"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:2023
+msgid "Show Results Button"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Similar.php:61
+msgid "Show Similar By"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:355
+msgid "Show Value My Car Tab"
+msgstr ""
+
+#: templates/widgets/login_register.php:17
+msgid "Sign In"
+msgstr ""
+
+#: inc/Widgets/LoginRegister.php:190
+msgid "Sign In Background Color"
+msgstr ""
+
+#: inc/Widgets/LoginRegister.php:178
+msgid "Sign In Text Color"
+msgstr ""
+
+#: templates/widgets/login_register.php:96
+#: templates/widgets/add-listing/parts/registration.php:8
+msgid "Sign Up"
+msgstr ""
+
+#: inc/Widgets/LoginRegister.php:212
+msgid "Sign Up Background Color"
+msgstr ""
+
+#: templates/widgets/login_register.php:224
+#: templates/widgets/login_register.php:228
+#: templates/widgets/add-listing/parts/registration.php:151
+#: templates/widgets/add-listing/parts/registration.php:153
+msgid "Sign up now!"
+msgstr ""
+
+#: inc/Widgets/LoginRegister.php:200
+msgid "Sign Up Text Color"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Similar.php:54
+msgid "Similar listing"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Similar.php:40
+msgid "Similar Listings"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:226
+#: inc/Widgets/ListingsCarousel.php:216 inc/Widgets/ImageCategories.php:379
+#: inc/Widgets/ImageCarousel.php:148 inc/Widgets/HeroSlider.php:258
+#: inc/Widgets/TestimonialsCarousel.php:167
+msgid "Slide Duration"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:79
+msgid "Slide Style"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:213
+msgid "Slides"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:170 inc/Widgets/ImageCategories.php:299
+#: inc/Widgets/ImageCarousel.php:96 inc/Widgets/TestimonialsCarousel.php:128
+msgid "Slides Per Transition"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:124
+msgid "Slots available"
+msgstr ""
+
+#: inc/Widgets/LoginRegister.php:224
+msgid "Social Login Background Color"
+msgstr ""
+
+#: inc/Widgets/LoginRegister.php:235
+msgid "Social Text Color"
+msgstr ""
+
+#: templates/widgets/inventory-search-filter.php:128
+#: templates/widgets/single-listing/gallery.php:139
+msgid "Sold"
+msgstr ""
+
+#: inc/Widgets/InventorySortBy.php:37
+msgid "Sort By"
+msgstr ""
+
+#: templates/widgets/dealers-list.php:136
+#: templates/widgets/inventory-sort-by.php:2
+msgid "Sort by:"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:44
+msgid "Sort Layouts"
+msgstr ""
+
+#: templates/widgets/single-listing/gallery.php:20
+msgid "Special"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:215
+#: inc/Widgets/ImageCategories.php:368 inc/Widgets/ImageCarousel.php:141
+#: inc/Widgets/HeroSlider.php:243 inc/Widgets/TestimonialsCarousel.php:160
+#: inc/Widgets/SingleListing/SearchResults.php:75
+msgid "Speed of slide animation in milliseconds"
+msgstr ""
+
+#: inc/Widgets/IconCounter.php:65
+msgid "Starting Number"
+msgstr ""
+
+#: templates/widgets/posts-grid/posts-grid-loop.php:64
+msgid "Sticky"
+msgstr ""
+
+#: templates/widgets/posts-grid/posts-grid-loop.php:20
+#: templates/widgets/posts-grid/posts-grid-loop.php:57
+msgid "Sticky Post"
+msgstr ""
+
+#: inc/Widgets/PostsGrid.php:79
+msgid "Sticky posts"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Actions.php:72
+msgid "Stock"
+msgstr ""
+
+#: templates/widgets/single-listing/actions.php:53
+msgid "stock"
+msgstr ""
+
+#: templates/widgets/single-listing/classified/listing-data.php:57
+#: templates/widgets/single-listing/classified/listing-data.php:66
+msgid "Stock id"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/ListingData.php:60
+msgid "Stock Number"
+msgstr ""
+
+#: inc/Widgets/PostsGrid.php:67 inc/Widgets/SellYourCar.php:39
+#: inc/Widgets/ArrowBanner.php:125 inc/Widgets/ListingsCompare.php:161
+#: inc/Widgets/LoanCalculator.php:169 inc/Widgets/GoogleMap.php:111
+#: inc/Widgets/ColoredSeparator.php:35 inc/Widgets/HeroBanner.php:196
+#: inc/Widgets/SingleListing/CarMPG.php:56
+#: inc/Widgets/SingleListing/DealerEmail.php:87
+#: inc/Widgets/SingleListing/Similar.php:70
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:105
+#: inc/Widgets/SingleListing/WhatsApp.php:87
+#: inc/Widgets/SingleListing/Classified/Title.php:91
+#: inc/Widgets/SingleListing/Classified/ListingData.php:95
+msgid "Style"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:114 inc/Widgets/ListingsGrid.php:137
+#: inc/Widgets/HeroBanner.php:84 inc/Widgets/TestimonialsCarousel.php:70
+msgid "Style 1"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:115 inc/Widgets/ListingsGrid.php:138
+#: inc/Widgets/HeroBanner.php:85 inc/Widgets/TestimonialsCarousel.php:71
+msgid "Style 2"
+msgstr ""
+
+#: inc/Widgets/ListingsGrid.php:139 inc/Widgets/HeroBanner.php:86
+msgid "Style 3"
+msgstr ""
+
+#. Author of the plugin
+msgid "StylemixThemes"
+msgstr ""
+
+#: inc/Widgets/InventorySearchResults.php:100 inc/Widgets/ContactTabs.php:264
+#: inc/Widgets/ListingsList.php:99 inc/Widgets/ImageCarousel.php:191
+#: inc/Widgets/ListingsGrid.php:146 inc/Widgets/ContactFormSeven.php:117
+#: inc/Widgets/TestimonialsCarousel.php:335
+msgid "Styles"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/check_user.php:118
+msgid "Submit listing"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:343
+msgid "Subscription Plans"
+msgstr ""
+
+#: inc/Widgets/ArrowBanner.php:110 inc/Widgets/PricingPlan.php:91
+msgid "Subtitle"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:714 inc/Widgets/PricingPlan.php:745
+msgid "Subtitle Color"
+msgstr ""
+
+#: inc/Widgets/ArrowBanner.php:224 inc/Widgets/PricingPlan.php:551
+msgid "Subtitle Typography"
+msgstr ""
+
+#: templates/widgets/listings-grid.php:62
+#: templates/widgets/contact-form-seven.php:11
+#: templates/widgets/accordion.php:18
+#: templates/widgets/listings-carousel.php:63
+#: templates/widgets/testimonials-carousel.php:67
+#: templates/widgets/testimonials-carousel.php:108
+#: templates/widgets/testimonials-carousel.php:145
+#: templates/widgets/single-listing/contact-info.php:17
+msgid "SVG icon"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:491 inc/Widgets/ListingSearchTabs.php:520
+#: inc/Widgets/ListingsGridTabs.php:313 inc/Widgets/ListingsGridTabs.php:342
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:336
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:365
+msgid "Tab Background Color"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:443 inc/Widgets/ListingsGridTabs.php:229
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:273
+msgid "Tab Border"
+msgstr ""
+
+#: inc/Widgets/ContactTabs.php:411
+msgid "Tab Heading Text Style"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:245 inc/Widgets/CarListingTabs.php:110
+msgid "Tab Prefix"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:253 inc/Widgets/CarListingTabs.php:118
+msgid "Tab Suffix"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:501 inc/Widgets/ListingSearchTabs.php:530
+#: inc/Widgets/ListingsGridTabs.php:303 inc/Widgets/ListingsGridTabs.php:332
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:326
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:355
+msgid "Tab Text Color"
+msgstr ""
+
+#: inc/Widgets/ContactTabs.php:59
+msgid "Tab Title"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:468 inc/Widgets/ListingsGridTabs.php:199
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:243
+msgid "Tab Typography"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:394
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:125
+msgid "Tabs"
+msgstr ""
+
+#: inc/Widgets/ContactTabs.php:298
+msgid "Tabs Background Color"
+msgstr ""
+
+#: inc/Widgets/TeamMember.php:31
+msgid "Team Member"
+msgstr ""
+
+#: templates/widgets/team-member.php:37
+msgid "Team member photo"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:301
+msgid "Template Phrases"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:376
+msgid "Terms & Conditions"
+msgstr ""
+
+#: inc/Widgets/LoginRegister.php:79
+msgid "Terms Page"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Gallery.php:88
+msgid "Test Drive"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Actions.php:79
+msgid "Test Drive Schedule"
+msgstr ""
+
+#: templates/widgets/testimonials-carousel.php:46
+#: templates/widgets/testimonials-carousel.php:126
+msgid "Testimonial photo"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:291
+msgid "Testimonials"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:53
+msgid "Testimonials Carousel"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:487
+msgid "Text"
+msgstr ""
+
+#: inc/Widgets/IconCounter.php:150 inc/Widgets/InventorySearchFilter.php:772
+#: inc/Widgets/PricingPlan.php:159
+msgid "Text Alignment"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:294
+#: inc/Widgets/InventorySearchFilter.php:385
+#: inc/Widgets/InventorySearchFilter.php:608
+#: inc/Widgets/InventorySearchFilter.php:679
+#: inc/Widgets/InventorySearchFilter.php:1060
+#: inc/Widgets/InventorySearchFilter.php:1130
+#: inc/Widgets/InventorySearchFilter.php:1223
+#: inc/Widgets/InventorySearchFilter.php:1422
+#: inc/Widgets/InventorySearchFilter.php:1518
+#: inc/Widgets/InventorySearchFilter.php:1747
+#: inc/Widgets/InventorySearchFilter.php:1821
+#: inc/Widgets/InventorySearchFilter.php:1937
+#: inc/Widgets/InventorySearchFilter.php:2111
+#: inc/Widgets/InventorySearchFilter.php:2329
+#: inc/Widgets/InventorySearchFilter.php:2394
+#: inc/Widgets/SingleListing/DealerEmail.php:124
+#: inc/Widgets/SingleListing/DealerEmail.php:200
+#: inc/Widgets/SingleListing/Features.php:189
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:141
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:228
+#: inc/Widgets/SingleListing/WhatsApp.php:124
+#: inc/Widgets/SingleListing/WhatsApp.php:200
+#: inc/Widgets/SingleListing/ListingMap.php:118
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:348
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:429
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:699
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:780
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1472
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1552
+msgid "Text Color"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Features.php:156
+#: inc/Widgets/SingleListing/ListingMap.php:149
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:1611
+msgid "Text Typography"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Price.php:43
+#: inc/Widgets/SingleListing/Classified/Price.php:43
+msgid ""
+"The listing price value can be edited in<br />the Listing Manager > Prices "
+"section<br />individually for each single listing."
+msgstr ""
+
+#: inc/Widgets/InventorySortBy.php:57
+msgid "Themes Options Link"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:254 inc/Widgets/CarListingTabs.php:119
+msgid "This will appear after category name"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:197
+msgid "This will appear after found cars count"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:246 inc/Widgets/CarListingTabs.php:111
+msgid "This will appear before category name"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:187
+msgid "This will appear before found cars count"
+msgstr ""
+
+#: inc/Widgets/IconCounter.php:105
+msgid "Thousand Separator"
+msgstr ""
+
+#: inc/Helpers/Helper.php:67
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:105
+#: inc/Helpers/AddListingMananger.php:139
+#: inc/Helpers/AddListingMananger.php:237
+#: inc/Helpers/AddListingMananger.php:321
+#: inc/Helpers/AddListingMananger.php:366 inc/Widgets/Info.php:65
+#: inc/Widgets/Info.php:101 inc/Widgets/ListingsCategoriesMasonry.php:110
+#: inc/Widgets/ListingsCarousel.php:68 inc/Widgets/ArrowBanner.php:102
+#: inc/Widgets/InventorySearchFilter.php:124 inc/Widgets/Accordion.php:71
+#: inc/Widgets/ListingsCompare.php:84 inc/Widgets/ListingsCompare.php:128
+#: inc/Widgets/LoanCalculator.php:105 inc/Widgets/ImageCategories.php:241
+#: inc/Widgets/ListingsGridTabs.php:65 inc/Widgets/ListingsGrid.php:56
+#: inc/Widgets/HeroSlider.php:117 inc/Widgets/HeroSlider.php:287
+#: inc/Widgets/HeroSlider.php:748 inc/Widgets/HeroSlider.php:1231
+#: inc/Widgets/PricingPlan.php:361 inc/Widgets/HeroBanner.php:106
+#: inc/Widgets/HeroBanner.php:201 inc/Widgets/ContactFormSeven.php:70
+#: inc/Widgets/TestimonialsCarousel.php:231
+#: inc/Widgets/MultiListing/MultiListingSearchTabs.php:71
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:65
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:76
+#: inc/Widgets/SingleListing/Similar.php:53
+#: inc/Widgets/SingleListing/Title.php:35
+#: inc/Widgets/SingleListing/DealerPhoneNumber.php:70
+#: inc/Widgets/SingleListing/ContactInfo.php:69
+#: inc/Widgets/SingleListing/ContactInfo.php:129
+#: inc/Widgets/MegaMenu/TopVehicles.php:49
+#: inc/Widgets/MegaMenu/TopCategories.php:49
+#: templates/widgets/add-listing/parts/title.php:18
+msgid "Title"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:438
+msgid "Title Block"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/Title.php:42
+msgid "Title Classified"
+msgstr ""
+
+#: inc/Widgets/PostsGrid.php:145 inc/Widgets/PostsGrid.php:175
+#: inc/Widgets/Info.php:226 inc/Widgets/ListingsCarousel.php:289
+#: inc/Widgets/ListingsCarousel.php:334
+#: inc/Widgets/InventorySearchFilter.php:512 inc/Widgets/Accordion.php:166
+#: inc/Widgets/ContactTabs.php:385 inc/Widgets/ListingsGridTabs.php:273
+#: inc/Widgets/ListingsGrid.php:176 inc/Widgets/HeroSlider.php:324
+#: inc/Widgets/HeroSlider.php:785 inc/Widgets/HeroSlider.php:1268
+#: inc/Widgets/PricingPlan.php:704 inc/Widgets/PricingPlan.php:734
+#: inc/Widgets/HeroBanner.php:238 inc/Widgets/ContactFormSeven.php:178
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:232
+#: inc/Widgets/SingleListing/ListingSpecifications.php:211
+#: inc/Widgets/SingleListing/Classified/Title.php:129
+msgid "Title Color"
+msgstr ""
+
+#: inc/Widgets/SingleListing/ContactInfo.php:377
+msgid "Title color"
+msgstr ""
+
+#: inc/Widgets/Accordion.php:53 inc/Widgets/ContactFormSeven.php:77
+#: inc/Widgets/TestimonialsCarousel.php:205
+msgid "Title Heading"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:112
+msgid "Title Icon"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:344
+msgid "Title Label Color"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:299 inc/Widgets/ListingsCompare.php:201
+#: inc/Widgets/ListingsGrid.php:186
+msgid "Title Line Color"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:124
+msgid "Title Separator"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:760
+msgid "Title Separator Color"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:132
+msgid "Title Separator Height"
+msgstr ""
+
+#: inc/Widgets/Info.php:72 inc/Widgets/SingleListing/ContactInfo.php:89
+msgid "Title Tag"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:410
+msgid "Title Text Color"
+msgstr ""
+
+#: inc/Widgets/Accordion.php:192 inc/Widgets/ContactTabs.php:419
+#: inc/Widgets/ContactFormSeven.php:155
+#: inc/Widgets/TestimonialsCarousel.php:487
+msgid "Title Text Style"
+msgstr ""
+
+#: inc/Widgets/HeroSlider.php:335 inc/Widgets/HeroSlider.php:796
+#: inc/Widgets/HeroSlider.php:1279 inc/Widgets/HeroBanner.php:249
+msgid "Title Two First Words Color"
+msgstr ""
+
+#: inc/Widgets/Info.php:133 inc/Widgets/Info.php:196
+#: inc/Widgets/ListingsCategoriesMasonry.php:270
+#: inc/Widgets/ArrowBanner.php:184 inc/Widgets/ListingsCompare.php:166
+#: inc/Widgets/LoanCalculator.php:199 inc/Widgets/ImageCategories.php:448
+#: inc/Widgets/ListingsGridTabs.php:186 inc/Widgets/IconBox.php:169
+#: inc/Widgets/PricingPlan.php:500
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:219
+#: inc/Widgets/SingleListing/ListingSpecifications.php:108
+#: inc/Widgets/SingleListing/ListingSpecifications.php:181
+#: inc/Widgets/SingleListing/ContactInfo.php:163
+#: inc/Widgets/SingleListing/ContactInfo.php:342
+#: inc/Widgets/SingleListing/Classified/Title.php:96
+msgid "Title Typography"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/registered.php:38
+#: templates/widgets/add-listing/parts/user_info.php:43
+#: templates/widgets/add-listing/parts/user_info.php:75
+msgid "to choose a different account"
+msgstr ""
+
+#: inc/Widgets/Controls/StyleControls/VerticalAlignControl.php:32
+#: inc/Widgets/Controls/StyleControls/VerticalAlignControl.php:72
+msgid "Top"
+msgstr ""
+
+#: inc/Widgets/InventorySearchFilter.php:810
+#: inc/Widgets/InventorySearchFilter.php:1566
+msgid "Top Border Color"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:364
+msgid "Top border color"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:340
+msgid "Top border size"
+msgstr ""
+
+#: inc/Widgets/MegaMenu/TopCategories.php:35
+msgid "Top Categories"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:180
+msgid "Top Left"
+msgstr ""
+
+#: inc/Widgets/SingleListing/SearchResults.php:122
+msgid "Top Line Color"
+msgstr ""
+
+#: inc/Widgets/MegaMenu/TopMakesTabs.php:33
+msgid "Top Makes Tabs"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:316
+msgid "Top Part Background Color"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:181
+msgid "Top Right"
+msgstr ""
+
+#: inc/Widgets/MegaMenu/TopVehicles.php:35
+msgid "Top Vehicles"
+msgstr ""
+
+#: templates/widgets/calculator-vertical.php:100
+#: templates/widgets/calculator-horizontal.php:90
+msgid "Total Amount to Pay"
+msgstr ""
+
+#: templates/widgets/calculator-vertical.php:96
+#: templates/widgets/calculator-horizontal.php:87
+msgid "Total Interest Payment"
+msgstr ""
+
+#: inc/Widgets/SingleListing/TradeInButton.php:34
+msgid "Trade In Button"
+msgstr ""
+
+#: inc/Widgets/SingleListing/TradeInButton.php:48
+msgid "Trade In Form"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:175
+msgid "Transform numeric categories to input fields"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:204
+msgid "Transition Speed"
+msgstr ""
+
+#: inc/Widgets/SingleListing/ListingSpecifications.php:75
+msgid "Two Column"
+msgstr ""
+
+#: inc/Widgets/CarListingTabs.php:101
+msgid ""
+"Type slug of the category (don't delete anything from autocompleted "
+"suggestions)"
+msgstr ""
+
+#: inc/Widgets/Accordion.php:187 inc/Widgets/ContactTabs.php:406
+#: inc/Widgets/TestimonialsCarousel.php:482
+#: inc/Widgets/SingleListing/DealerEmail.php:255
+#: inc/Widgets/SingleListing/Title.php:64
+#: inc/Widgets/SingleListing/WhatsApp.php:255
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:501
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:852
+msgid "Typography"
+msgstr ""
+
+#: inc/Widgets/PricingPlan.php:312
+msgid "Under Price"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/item_gallery.php:16
+msgid "Upload photo"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:187
+msgid "Use Advanced Search Mode"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:48
+msgid "User Data Advanced"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/UserDataSimple.php:32
+msgid "User Data Simple"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/UserDataSimple.php:49
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:202
+msgid "User Name Color"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/UserDataSimple.php:60
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:213
+msgid "User Name Typography"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/UserDataSimple.php:96
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:249
+msgid "User Role Color"
+msgstr ""
+
+#: inc/Widgets/SingleListing/Classified/UserDataSimple.php:108
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:261
+msgid "User Role Typography"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:711
+msgid "Validation Issues Text Color"
+msgstr ""
+
+#: inc/Widgets/Info.php:110 inc/Widgets/SingleListing/ContactInfo.php:139
+msgid "Value"
+msgstr ""
+
+#: inc/Widgets/Info.php:267
+#: inc/Widgets/SingleListing/ListingSpecifications.php:252
+#: inc/Widgets/SingleListing/Classified/ListingData.php:248
+msgid "Value Color"
+msgstr ""
+
+#: templates/widgets/listings-search-tabs.php:219
+msgid "Value my Car"
+msgstr ""
+
+#: templates/widgets/listings-search-tabs.php:87
+msgid "Value my car"
+msgstr ""
+
+#: inc/Widgets/ListingSearchTabs.php:350
+msgid "Value My Car Tab"
+msgstr ""
+
+#: inc/Widgets/Info.php:237
+#: inc/Widgets/SingleListing/ListingSpecifications.php:222
+#: inc/Widgets/SingleListing/Classified/ListingData.php:208
+msgid "Value Typography"
+msgstr ""
+
+#: inc/Widgets/ArrowBanner.php:111
+msgid "Vehicle Available"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/additional_fields.php:67
+msgid "Vehicle history"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/additional_fields.php:58
+msgid "Vehicle History Report"
+msgstr ""
+
+#: inc/Widgets/TestimonialsCarousel.php:278
+msgid "Vehicle Icon"
+msgstr ""
+
+#: templates/widgets/calculator-vertical.php:46
+#: templates/widgets/calculator-horizontal.php:41
+msgid "Vehicle price"
+msgstr ""
+
+#: inc/Widgets/LoanCalculator.php:117 inc/Widgets/SingleListing/Features.php:59
+msgid "Vertical"
+msgstr ""
+
+#: inc/Widgets/ArrowBanner.php:85
+msgid "Vertical Align"
+msgstr ""
+
+#: templates/widgets/single-listing/gallery.php:92
+#: templates/widgets/posts-grid/posts-grid-loop.php:52
+msgid "Video"
+msgstr ""
+
+#: templates/widgets/add-listing/parts/item_videos.php:22
+msgid "Video link"
+msgstr ""
+
+#: templates/widgets/single-listing/gallery.php:162
+#: templates/widgets/single-listing/gallery.php:201
+#: templates/widgets/single-listing/gallery.php:230
+#: templates/widgets/single-listing/gallery.php:265
+msgid "Video preview"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:66 inc/Helpers/AddListingMananger.php:274
+msgid "Videos"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:142 inc/Widgets/ListingsGrid.php:103
+#: templates/widgets/listings-grid.php:35
+#: templates/widgets/listings-carousel.php:35
+msgid "View all"
+msgstr ""
+
+#: templates/widgets/listings-grid.php:104
+#: templates/widgets/listings-carousel.php:110
+msgid "View full information about"
+msgstr ""
+
+#: inc/Widgets/ListingsCarousel.php:111 inc/Widgets/ListingsGrid.php:134
+#: inc/Widgets/TestimonialsCarousel.php:66
+msgid "View Style"
+msgstr ""
+
+#: inc/Widgets/InventoryViewType.php:27 inc/Widgets/LoanCalculator.php:114
+#: inc/Widgets/SingleListing/Features.php:56
+msgid "View Type"
+msgstr ""
+
+#: inc/Helpers/AddListingMananger.php:188 inc/Helpers/Helper.php:120
+#: templates/widgets/single-listing/listing-data.php:106
+#: templates/widgets/add-listing/parts/additional_fields.php:47
+msgid "VIN"
+msgstr ""
+
+#: inc/Widgets/SingleListing/ListingData.php:43
+#: inc/Widgets/SingleListing/Classified/ListingData.php:53
+msgid "VIN Number"
+msgstr ""
+
+#: templates/widgets/single-listing/classified/listing-data.php:77
+#: templates/widgets/single-listing/classified/listing-data.php:87
+msgid "VIN:"
+msgstr ""
+
+#: inc/Widgets/ImageCategories.php:138
+msgid "Visible Items"
+msgstr ""
+
+#: inc/Widgets/SingleListing/WhatsApp.php:55
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:133
+#: inc/Widgets/SingleListing/Classified/UserDataAdvanced.php:322
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/Widgets/ListingsCategoriesMasonry.php:246
+#: inc/Widgets/ListingsCarousel.php:230 inc/Widgets/ImageCategories.php:399
+#: inc/Widgets/ImageCarousel.php:162 inc/Widgets/HeroSlider.php:276
+#: inc/Widgets/TestimonialsCarousel.php:181
+msgid ""
+"When enabled autoplay will be paused on mouse enter over carousel container"
+msgstr ""
+
+#: inc/Widgets/ContactFormSeven.php:109
+msgid "Wide"
+msgstr ""
+
+#: inc/Widgets/LoanCalculator.php:160
+msgid "Wide version"
+msgstr ""
+
+#: inc/Helpers/Helper.php:118
+msgid "Year"
+msgstr ""
+
+#: inc/Widgets/ListingsGridTabs.php:108 inc/Widgets/ListingsGridTabs.php:126
+#: inc/Widgets/ListingsGridTabs.php:145 inc/Widgets/ListingsGridTabs.php:164
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:159
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:178
+#: inc/Widgets/MultiListing/MultiListingsGridTabs.php:197
+msgid "Yes"
+msgstr ""
+
+#: inc/Widgets/GoogleMap.php:87
+msgid "Zoom Using Mouse Wheel"
+msgstr ""

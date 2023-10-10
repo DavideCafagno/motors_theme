@@ -1,0 +1,7 @@
+body.rtl .listing-specifications-wrap .title_wrap i {
+    margin: 0 0 0 13px;
+}
+
+body.rtl .listing-specifications-wrap .info-list-wrap ul li .item-value {
+    padding-left: 0;
+}

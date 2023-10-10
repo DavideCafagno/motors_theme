@@ -1,0 +1,120 @@
+.elementor-contact-tabs .elementor-contact-tabs-container {
+    padding-top: 4px;
+}
+
+.elementor-contact-tabs .elementor-contact-tabs-container .elementor-contact-tabs-list {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 0;
+    overflow: visible;
+    list-style: none;
+    padding-left: 0;
+}
+
+@media (max-width: 767px) {
+    .elementor-contact-tabs .elementor-contact-tabs-container .elementor-contact-tabs-list {
+        flex-direction: row;
+        flex-wrap: nowrap;
+        overflow-y: scroll;
+        padding-top: 4px;
+    }
+}
+
+@media (min-width: 768px) {
+    .elementor-contact-tabs .elementor-contact-tabs-container .elementor-contact-tabs-list {
+        flex-direction: row;
+        padding-left: 20px;
+    }
+}
+
+.elementor-contact-tabs .elementor-contact-tabs-container .elementor-contact-tabs-list .elementor-contact-tab {
+    position: relative;
+    margin: 0;
+    display: inline-block;
+}
+
+.elementor-contact-tabs .elementor-contact-tabs-container .elementor-contact-tabs-list .elementor-contact-tab:before {
+    position: absolute;
+    content: "";
+    display: block;
+    top: -4px;
+    left: 0;
+    right: 0;
+    height: 4px;
+    opacity: 0;
+    background-color: #cc6119;
+}
+
+.elementor-contact-tabs .elementor-contact-tabs-container .elementor-contact-tabs-list .elementor-contact-tab span.tab-item {
+    display: block;
+    padding: 13px 18px;
+    border-radius: 0;
+    border: none;
+    cursor: pointer;
+}
+
+.elementor-contact-tabs .elementor-contact-tabs-container .elementor-contact-tabs-list .elementor-contact-tab span.tab-item .elementor-contact-title-text {
+    position: relative;
+    top: 1px;
+    left: 2px;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.elementor-contact-tabs .elementor-contact-tabs-container .elementor-contact-tabs-list .elementor-contact-tab span.tab-item .elementor-contact-title-text:not(:empty):not(:first-child) {
+    margin-left: 8px;
+}
+
+.elementor-contact-tabs .elementor-contact-tabs-container .elementor-contact-tabs-list .elementor-contact-tab.active:before {
+    opacity: 1;
+}
+
+.elementor-contact-tabs .elementor-contact-tabs-container .elementor-contact-tabs-list .elementor-contact-tab.active span.tab-item {
+    cursor: auto;
+}
+
+.elementor-contact-tabs .contact-tabs-containers-wrap {
+    padding-top: 37px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.elementor-contact-tabs .contact-tabs-containers-wrap .elementor-contact-panels-container {
+    visibility: hidden;
+    opacity: 0;
+    max-height: 0;
+}
+
+.elementor-contact-tabs .contact-tabs-containers-wrap .elementor-contact-panels-container.active {
+    visibility: visible;
+    opacity: 1;
+    transition: all 1s ease;
+    max-height: unset;
+}
+
+.elementor-contact-tabs .contact-tabs-containers-wrap .elementor-contact-panels-container .tab-unit {
+    display: flex;
+    margin-bottom: 28px;
+}
+
+.elementor-contact-tabs .contact-tabs-containers-wrap .elementor-contact-panels-container .tab-unit .icon {
+    padding: 0 25px 0 15px;
+}
+
+.elementor-contact-tabs .contact-tabs-containers-wrap .elementor-contact-panels-container .tab-unit i {
+    color: #cc6119;
+}
+
+.elementor-contact-tabs .contact-tabs-containers-wrap .elementor-contact-panels-container .tab-unit .text .content {
+    font-size: 14px;
+}
+
+.elementor-contact-tabs .contact-tabs-containers-wrap .elementor-contact-panels-container .tab-unit .text .content p {
+    margin-bottom: 0;
+}
+
+.elementor-contact-tabs .contact-tabs-containers-wrap .elementor-contact-panels-container .tab-unit .text .icon-box {
+    padding: 0;
+}

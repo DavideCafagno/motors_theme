@@ -1,0 +1,43 @@
+.stm_dynamic_listing_dealer_filter .tab-content {
+    background: #153e4d;
+}
+
+.stm_dynamic_listing_dealer_filter .stm_dealer_list_table .stm-single-dealer > td:not(:last-child) {
+    padding-right: 5px;
+}
+
+.stm_dynamic_listing_dealer_filter .stm_dealer_list_table .stm-single-dealer td.dealer-cars {
+    display: block;
+    width: 100%;
+    padding-right: 15px;
+    margin-bottom: 0;
+}
+
+@media (max-width: 500px) {
+    #main .stm_dynamic_listing_dealer_filter tbody {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #main .stm_dynamic_listing_dealer_filter .stm-single-dealer td {
+        width: 100%;
+    }
+}
+
+@media (min-width: 501px) and (max-width: 767px) {
+    #main .stm_dynamic_listing_dealer_filter tbody td.dealer-info, #main .stm_dynamic_listing_dealer_filter tbody td.dealer-location {
+        width: 20%;
+    }
+
+    #main .stm_dynamic_listing_dealer_filter tbody td.dealer-cars {
+        display: table-cell;
+        width: 20%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1170px) {
+    #main .stm_dynamic_listing_dealer_filter tbody td.dealer-cars {
+        display: table-cell;
+        width: 20%;
+    }
+}

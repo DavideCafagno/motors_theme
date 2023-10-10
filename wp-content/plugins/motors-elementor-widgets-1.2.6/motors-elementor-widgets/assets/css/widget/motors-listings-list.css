@@ -1,0 +1,13 @@
+.stm-elementor_listings_list {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.stm-elementor_listings_list.archive-listing-page {
+    margin-top: 0;
+}
+
+.stm-elementor_listings_list .colored-separator {
+    margin-bottom: 35px;
+    text-align: center;
+}

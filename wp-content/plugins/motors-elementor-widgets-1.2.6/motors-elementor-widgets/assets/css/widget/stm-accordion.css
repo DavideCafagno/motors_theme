@@ -1,0 +1,61 @@
+.stm-elementor-accordion .stm-elementor-panels-container .stm-elementor-panel {
+    border-top: 1px solid #ddd;
+}
+
+.stm-elementor-accordion .stm-elementor-panels-container .stm-elementor-panel .stm-elementor-panel-heading {
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+
+.stm-elementor-accordion .stm-elementor-panels-container .stm-elementor-panel .stm-elementor-panel-heading:hover {
+    cursor: pointer;
+}
+
+.stm-elementor-accordion .stm-elementor-panels-container .stm-elementor-panel .stm-elementor-panel-heading .stm-accordion-svg-icon {
+    max-width: 24px;
+    position: absolute;
+    left: 2px;
+    margin-top: -1px;
+}
+
+.stm-elementor-accordion .stm-elementor-panels-container .stm-elementor-panel .stm-elementor-panel-heading .stm-elementor-panel-title {
+    padding: 19px 20px 8px 39px;
+    position: relative;
+}
+
+.stm-elementor-accordion .stm-elementor-panels-container .stm-elementor-panel .stm-elementor-panel-heading .stm-elementor-panel-title .stm-elementor-panel-icon {
+    position: absolute;
+    left: 2px;
+    margin-top: -1px;
+    font-size: 22px;
+    color: #cc6119;
+}
+
+.stm-elementor-accordion .stm-elementor-panels-container .stm-elementor-panel .stm-elementor-panel-heading .stm-elementor-panel-title .stm-elementor-panel-control-icon-chevron {
+    position: absolute;
+    right: 10px;
+}
+
+.stm-elementor-accordion .stm-elementor-panels-container .stm-elementor-panel.active .stm-elementor-panel-heading {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.stm-elementor-accordion .stm-elementor-panels-container .stm-elementor-panel.active .stm-elementor-panel-heading:hover {
+    cursor: initial;
+}
+
+.stm-elementor-accordion .stm-elementor-panels-container .stm-elementor-panel.active .stm-elementor-panel-heading .stm-elementor-panel-title .stm-elementor-panel-icon {
+    color: #6c98e1;
+}
+
+.stm-elementor-accordion .stm-elementor-panels-container .stm-elementor-panel.active .stm-elementor-panel-heading .stm-elementor-panel-title .stm-elementor-panel-control-icon-chevron {
+    transform: rotate(180deg);
+}
+
+.stm-elementor-accordion .stm-elementor-panels-container .stm-elementor-panel .stm-elementor-panel-body {
+    background-color: transparent;
+    border: 0;
+    padding: 5px 0;
+    display: none;
+}

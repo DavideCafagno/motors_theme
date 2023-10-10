@@ -1,0 +1,13 @@
+body.rtl .stm-elementor-accordion .stm-elementor-panels-container .stm-elementor-panel .stm-elementor-panel-heading .stm-elementor-panel-title {
+    padding: 19px 39px 8px 20px;
+}
+
+body.rtl .stm-elementor-accordion .stm-elementor-panels-container .stm-elementor-panel .stm-elementor-panel-heading .stm-elementor-panel-title .stm-elementor-panel-icon {
+    left: auto;
+    right: 2px;
+}
+
+body.rtl .stm-elementor-accordion .stm-elementor-panels-container .stm-elementor-panel .stm-elementor-panel-heading .stm-elementor-panel-title .stm-elementor-panel-control-icon-chevron {
+    right: auto;
+    left: 10px;
+}

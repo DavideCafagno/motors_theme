@@ -1,0 +1,22 @@
+@media (max-width: 767px) {
+    .stm-car-compare-row .compare-title {
+        text-align: center;
+    }
+}
+
+.stm-compare-cars-module .compare-col-stm-empty .image .stm-icon-add-car-wrapper {
+    display: block;
+    overflow: hidden;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    z-index: 15;
+}
+
+.stm-compare-cars-module .compare-col-stm-empty .image .stm-icon-add-car-wrapper i {
+    position: relative;
+    top: unset;
+    left: unset;
+    margin: unset;
+}

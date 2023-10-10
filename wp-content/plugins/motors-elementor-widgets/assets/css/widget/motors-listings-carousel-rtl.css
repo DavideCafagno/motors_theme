@@ -1,0 +1,43 @@
+body.rtl .stm-hoverable-interactive-galleries .stm-elementor_listings_carousel .price {
+    margin: 0 23px 0 0;
+}
+
+body.rtl .listing-car-items .listing-car-item .price {
+    margin: 0 23px 0 0;
+}
+
+@media (max-width: 768px) {
+    body.rtl .listing-car-items .listing-car-item .price {
+        float: left;
+    }
+}
+
+body.rtl .listing-car-items .listing-car-item .price:before {
+    left: auto;
+    right: -14px;
+    transform: skew(18deg, 0deg);
+}
+
+@media (max-width: 768px) {
+    body.rtl .listing-car-items .listing-car-item .car-title {
+        margin-left: 10px;
+    }
+}
+
+body.rtl .stm-elementor_listings_carousel .stm-swiper-controls {
+    direction: ltr;
+}
+
+body.rtl .stm-elementor_listings_carousel .colored-separator {
+    direction: ltr;
+}
+
+body.rtl .stm-elementor_listings_carousel .title .all-listings {
+    right: auto;
+    left: 0;
+    flex-direction: row-reverse;
+}
+
+body.rtl .stm-elementor_listings_carousel .title .all-listings > i {
+    margin: 0 3px 0 0;
+}

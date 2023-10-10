@@ -1,0 +1,24 @@
+body.rtl .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .content h5 {
+    text-align: right;
+}
+
+body.rtl .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .image {
+    float: right;
+    margin: 0 0 0 20px;
+}
+
+body.rtl .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .testimonial-meta {
+    left: auto;
+    right: 0;
+    padding: 0 0 0 55px;
+}
+
+body.rtl .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .testimonial-meta .author {
+    margin-right: 0;
+}
+
+body.rtl .stm-testimonials-carousel-wrapper .stm-swiper-controls {
+    direction: ltr;
+    right: auto;
+    left: 0;
+}

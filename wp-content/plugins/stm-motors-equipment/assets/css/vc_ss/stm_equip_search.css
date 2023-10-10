@@ -1,0 +1,88 @@
+.stm_equip_listing_filter .container {
+    display: block;
+    background: #cc6119;
+    padding: 22px 20px 5px 25px;
+}
+
+.stm_equip_listing_filter .container .form-wrap {
+    display: block;
+    width: 100%;
+    position: relative;
+}
+
+.stm_equip_listing_filter .container .form-wrap form {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 100%;
+    position: relative;
+}
+
+@media (max-width: 450px) {
+    .stm_equip_listing_filter .container .form-wrap form {
+        flex-wrap: wrap;
+    }
+}
+
+.stm_equip_listing_filter .container .form-wrap form .stm-filter-tab-selects {
+    display: block;
+    width: 100%;
+    padding-right: 25px;
+}
+
+@media (max-width: 450px) {
+    .stm_equip_listing_filter .container .form-wrap form .stm-filter-tab-selects {
+        padding-right: 0;
+    }
+}
+
+.stm_equip_listing_filter .container .form-wrap form .stm-filter-tab-selects .stm-select-col {
+    margin-bottom: 15px;
+}
+
+.stm_equip_listing_filter .container .form-wrap form .btn-wrap {
+    display: block;
+    margin: 0;
+    width: auto;
+}
+
+@media (max-width: 450px) {
+    .stm_equip_listing_filter .container .form-wrap form .btn-wrap {
+        width: 100%;
+    }
+}
+
+.stm_equip_listing_filter .container .form-wrap form .btn-wrap button {
+    padding: 15px 58px 13px;
+    background-color: #1a1a1a;
+    box-shadow: none;
+    font-size: 12px;
+    transition: all 0.2s ease-in-out;
+}
+
+.stm_equip_listing_filter .container .form-wrap form .btn-wrap button:hover {
+    opacity: 1;
+    color: #cc6119 !important;
+}
+
+@media (max-width: 450px) {
+    .stm_equip_listing_filter .container .form-wrap form .btn-wrap button {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+}
+
+.stm_equip_listing_filter .container .form-wrap form .select2-container--default .select2-selection--single {
+    height: 42px;
+    background-color: #ffffff;
+}
+
+.stm_equip_listing_filter .container .form-wrap form .select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 42px;
+}
+
+.stm_equip_listing_filter .container .form-wrap form .select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 44px;
+}

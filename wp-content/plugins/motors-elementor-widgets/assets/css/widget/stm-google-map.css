@@ -1,0 +1,62 @@
+.stm-elementor-google-map {
+  /* white background and box outline */
+  /* arrow first */
+  /* arrow second */
+}
+
+.stm-elementor-google-map button {
+    box-shadow: none !important;
+}
+
+.stm-elementor-google-map .dismissButton {
+    background-color: #6c98e1;
+    border-color: #6c98e1;
+}
+
+.stm-elementor-google-map .gm-style > div:first-child > div + div > div:last-child > div > div:first-child > div {
+    border: none !important;
+    box-shadow: rgba(0, 0, 0, 0.1) 5px 5px 5px !important;
+}
+
+.stm-elementor-google-map .gm-style > div:first-child > div + div > div:last-child > div > div:first-child > div > div:first-child > div {
+    left: 3px !important;
+    transform: skewX(36deg) !important;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 1px !important;
+    z-index: 40;
+}
+
+.stm-elementor-google-map .gm-style > div:first-child > div + div > div:last-child > div > div:first-child > div > div:nth-child(2) > div {
+    left: 2px !important;
+    transform: skewX(-36deg) !important;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 1px !important;
+    z-index: 40;
+}
+
+.stm-elementor-google-map .gm-style > div:first-child > div + div > div:last-child > div > div:first-child > div:first-child {
+    display: none !important;
+}
+
+.stm-elementor-google-map .gm-style > div:first-child > div + div > div:last-child > div > div:first-child > div:nth-child(2) {
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+.stm-elementor-google-map .gm-style .gm-style-iw {
+    padding: 10px 10px 5px 10px;
+    min-height: 54px;
+    width: 240px !important;
+}
+
+.stm-elementor-google-map .gm-style .gm-style-iw h6 {
+    margin-bottom: 0 !important;
+    font-weight: 400 !important;
+}
+
+.stm-elementor-google-map .gm-style .gm-style-iw > button {
+    background-color: #6c98e1 !important;
+    border-color: #6c98e1 !important;
+}
+
+.stm-elementor-google-map .gm-style .gm-style-iw > div > div {
+    overflow: hidden !important;
+}

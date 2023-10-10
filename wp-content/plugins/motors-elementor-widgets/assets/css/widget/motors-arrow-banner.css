@@ -1,0 +1,81 @@
+.motors-elementor-arrow-banner .motors-elementor-banner-image-filter {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    background-position: 50% 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -1;
+}
+
+.motors-elementor-arrow-banner .motors-elementor-banner-image-filter:after {
+    position: absolute;
+    content: "";
+    display: block;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.motors-elementor-arrow-banner .stm-content-arrow-wrap {
+    position: relative;
+}
+
+.motors-elementor-arrow-banner .stm-content-arrow-wrap .centered-banner-content-listing {
+    position: relative;
+    display: flex;
+    max-width: 1140px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+    z-index: 5;
+}
+
+.motors-elementor-arrow-banner .stm-content-arrow-wrap .centered-banner-content-listing .image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+
+.motors-elementor-arrow-banner .stm-content-arrow-wrap .centered-banner-content-listing .inner {
+    position: relative;
+}
+
+.motors-elementor-arrow-banner .stm-content-arrow-wrap .centered-banner-content-listing .inner h1 {
+    margin-bottom: 5px;
+    font-size: 70px;
+    line-height: 50px;
+    letter-spacing: -3px;
+}
+
+.motors-elementor-arrow-banner .stm-content-arrow-wrap .centered-banner-content-listing .inner h3 {
+    margin-bottom: 0;
+    margin-left: 6px;
+    font-size: 24px;
+    letter-spacing: -1px;
+}
+
+.motors-elementor-arrow-banner .stm-content-arrow-wrap .centered-banner-content-listing .inner .stm-vivus-arrow {
+    position: absolute;
+    width: initial;
+}
+
+.motors-elementor-arrow-banner .stm-content-arrow-wrap .centered-banner-content-listing .inner .stm-vivus-arrow svg {
+    stroke-width: 5px;
+    stroke: #fff;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+@media (max-width: 1199px) {
+    .motors-elementor-arrow-banner .stm-content-arrow-wrap .centered-banner-content-listing .inner .stm-vivus-arrow {
+        display: none;
+    }
+}

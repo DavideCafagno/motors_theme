@@ -1,0 +1,444 @@
+.stm-testimonials-carousel-wrapper {
+    border-top-style: solid;
+    border-bottom-style: solid;
+}
+
+.stm-testimonials-carousel-wrapper .elementor-testimonials-carousel {
+    padding: 20px 0;
+    margin: 0 auto;
+    position: relative;
+}
+
+.stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit {
+    padding-bottom: 22px;
+}
+
+.stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .image {
+    margin: 0 auto 15px auto;
+    max-width: -webkit-fit-content;
+    max-width: -moz-fit-content;
+    max-width: fit-content;
+}
+
+@media (min-width: 768px) {
+    .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .image {
+        float: left;
+        max-width: 39%;
+        margin-right: 20px;
+    }
+}
+
+.stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .content {
+    margin-top: -3px;
+}
+
+.stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .content h4 {
+    margin-bottom: 22px;
+    letter-spacing: 0.5px;
+    word-spacing: -1px;
+    font-size: 17px;
+}
+
+.stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .content h5 {
+    margin-bottom: 19px;
+}
+
+.stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .testimonial-meta {
+    margin-top: 9px;
+    padding-right: 55px;
+    min-height: 22px;
+}
+
+@media (min-width: 992px) {
+    .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .testimonial-meta {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+    }
+}
+
+.stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .testimonial-meta .author {
+    display: inline-block;
+    margin-right: 25px;
+    text-transform: uppercase;
+}
+
+.stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .testimonial-meta .author-car {
+    display: inline-block;
+    position: relative;
+    padding-left: 31px;
+    font-style: italic;
+    color: #888;
+}
+
+.stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .testimonial-meta .author-car img.svg-icon {
+    max-width: 24px;
+    position: absolute;
+    left: 2px;
+    margin-top: -1px;
+}
+
+.stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .testimonial-meta .author-car i {
+    position: absolute;
+    content: "";
+    display: block;
+    top: 50%;
+    left: 0;
+    margin-top: -12px;
+    font-size: 21px;
+    color: #cc6119;
+}
+
+.stm-testimonials-carousel-wrapper.style_1 .elementor-testimonials-carousel .testimonial-unit > .clearfix {
+    margin-bottom: 10px;
+}
+
+.stm-testimonials-carousel-wrapper.style_2 .elementor-testimonials-carousel .testimonial-unit {
+    padding: 0;
+}
+
+.stm-testimonials-carousel-wrapper.style_2 .elementor-testimonials-carousel .testimonial-unit .clearfix {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.stm-testimonials-carousel-wrapper.style_2 .elementor-testimonials-carousel .testimonial-unit .clearfix .image {
+    display: block;
+    width: 130px;
+    height: 130px;
+    border-radius: 65px;
+    overflow: hidden;
+    border: 8px solid #fff;
+    padding: 0;
+    margin: 0 0 23px;
+}
+
+.stm-testimonials-carousel-wrapper.style_2 .elementor-testimonials-carousel .testimonial-unit .clearfix .image img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    -o-object-fit: cover;
+    object-fit: cover;
+    margin: 0;
+    transform: translateZ(0);
+    border-radius: 50%;
+}
+
+.stm-testimonials-carousel-wrapper.style_2 .elementor-testimonials-carousel .testimonial-unit .clearfix .author_info {
+    margin-bottom: 24px;
+}
+
+.stm-testimonials-carousel-wrapper.style_2 .elementor-testimonials-carousel .testimonial-unit .clearfix .author_info .author_name {
+    text-transform: uppercase;
+    font-size: 16px;
+    letter-spacing: -0.4px;
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+
+.stm-testimonials-carousel-wrapper.style_2 .elementor-testimonials-carousel .testimonial-unit .clearfix .author_info .author_position {
+    font-size: 16px;
+    opacity: 0.5;
+    font-weight: 400;
+}
+
+.stm-testimonials-carousel-wrapper.style_2 .elementor-testimonials-carousel .testimonial-unit .clearfix .content {
+    display: block;
+    max-width: 76%;
+    font-size: 24px;
+    line-height: 36px;
+    padding-bottom: 10px;
+}
+
+.stm-testimonials-carousel-wrapper.style_2 .elementor-testimonials-carousel .testimonial-unit .clearfix .content .title {
+    text-align: center;
+}
+
+.stm-testimonials-carousel-wrapper.style_2 .elementor-testimonials-carousel .testimonial-unit .clearfix img.svg-icon {
+    max-width: 24px;
+}
+
+.stm-testimonials-carousel-wrapper.style_2 .elementor-testimonials-carousel .testimonial-unit .clearfix i {
+    font-size: 36px;
+    color: #cc6119;
+}
+
+.stm-testimonials-carousel-wrapper.style_2 .elementor-testimonials-carousel .testimonial-unit .clearfix .icon {
+    margin-bottom: 60px;
+}
+
+.stm-testimonials-carousel-wrapper.style_2 .elementor-testimonials-carousel .testimonial-unit .clearfix .icon img {
+    max-width: 24px;
+    position: absolute;
+    left: 2px;
+    margin-top: -1px;
+}
+
+.stm-testimonials-carousel-wrapper.style_2 .stm-swiper-controls {
+    left: 0;
+    right: 0;
+    position: initial;
+}
+
+.stm-testimonials-carousel-wrapper .stm-swiper-controls {
+    display: flex;
+    justify-content: center;
+    z-index: 100;
+    margin-bottom: 20px;
+}
+
+@media (min-width: 768px) {
+    .stm-testimonials-carousel-wrapper .stm-swiper-controls {
+        position: absolute;
+        bottom: 30px;
+        right: 10px;
+        margin-bottom: 0;
+    }
+}
+
+.stm-testimonials-carousel-wrapper .stm-swiper-controls .stm-swiper-next,
+.stm-testimonials-carousel-wrapper .stm-swiper-controls .stm-swiper-prev {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 30px;
+    padding: 5px 15px;
+    color: #aaa;
+}
+
+.stm-testimonials-carousel-wrapper .stm-swiper-controls .stm-swiper-next:hover,
+.stm-testimonials-carousel-wrapper .stm-swiper-controls .stm-swiper-prev:hover {
+    cursor: pointer;
+    color: #6c98e1;
+}
+
+.page-template-home-service-layout .elementor-testimonials-carousel .testimonial-unit {
+    padding-bottom: 30px;
+}
+
+.page-template-home-service-layout .elementor-testimonials-carousel .testimonial-unit .testimonial-meta {
+    padding-right: 65px;
+}
+
+.page-template-home-service-layout .elementor-testimonials-carousel .testimonial-unit .testimonial-meta .author {
+    font-weight: 900;
+}
+
+.page-template-home-service-layout .elementor-testimonials-carousel .stm-swiper-controls {
+    right: 13px;
+}
+
+@media (max-width: 768px) {
+    .stm-template-equipment .elementor-testimonials-carousel .testimonial-unit {
+        padding-bottom: 35px;
+    }
+}
+
+.stm-template-equipment .elementor-testimonials-carousel .testimonial-unit .clearfix {
+    padding-bottom: 10px;
+}
+
+@media (max-width: 767px) {
+    .stm-template-equipment .elementor-testimonials-carousel .testimonial-unit .image {
+        margin-bottom: 25px;
+    }
+}
+
+.stm-template-equipment .elementor-testimonials-carousel .testimonial-unit .content h5 {
+    color: #cc6119;
+}
+
+.stm-template-equipment .elementor-testimonials-carousel .testimonial-unit .testimonial-meta .author {
+    font-size: 14px;
+    font-weight: 700;
+    margin-right: 0;
+}
+
+.stm-template-equipment .elementor-testimonials-carousel .testimonial-unit .testimonial-meta .author-car {
+    font-size: 13px;
+    font-weight: 400;
+    padding-left: 9px;
+}
+
+@media (max-width: 375px) {
+    .stm-template-equipment .elementor-testimonials-carousel .testimonial-unit .testimonial-meta .author-car {
+        padding-left: 0;
+    }
+}
+
+.stm-template-equipment .elementor-testimonials-carousel .testimonial-unit .testimonial-meta .author-car i {
+    display: none;
+}
+
+.stm-template-ev_dealer .stm-testimonials-carousel-wrapper .testimonials-carousel .testimonial-unit .clearfix .icon i {
+    color: #0d46ff;
+}
+
+.stm-template-ev_dealer .stm-testimonials-carousel-wrapper .testimonials-carousel .stm-swiper-controls .stm-swiper-prev:hover,
+.stm-template-ev_dealer .stm-testimonials-carousel-wrapper .testimonials-carousel .stm-swiper-controls .stm-swiper-next:hover {
+    color: #0d46ff;
+}
+
+.stm-template-boats .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .testimonial-meta .author-car {
+    position: relative;
+    padding-left: 31px;
+    font-style: italic;
+    color: #888;
+}
+
+.stm-template-boats .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .testimonial-meta .author-car i {
+    font-family: "boaticons" !important;
+}
+
+.stm-template-boats .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .testimonial-meta .author-car i:before {
+    content: "\e901";
+}
+
+@media (max-width: 430px) {
+    .stm-template-listing_four .stm-testimonials-carousel-wrapper.style_1 .testimonial-unit .clearfix, .stm-template-listing_four_elementor .stm-testimonials-carousel-wrapper.style_1 .testimonial-unit .clearfix {
+        margin-bottom: 20px;
+    }
+
+    .stm-template-listing_four .stm-testimonials-carousel-wrapper.style_1 .testimonial-unit .testimonial-meta, .stm-template-listing_four_elementor .stm-testimonials-carousel-wrapper.style_1 .testimonial-unit .testimonial-meta {
+        line-height: 26px;
+    }
+}
+
+.stm-template-listing_five .elementor-testimonials-carousel {
+    padding: 38px 0 27px;
+    border-top: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;
+}
+
+.stm-template-listing_five .elementor-testimonials-carousel .testimonial-unit {
+    padding-bottom: 22px;
+    position: relative;
+}
+
+.stm-template-listing_five .elementor-testimonials-carousel .stm-swiper-controls {
+    right: 3px;
+}
+
+.stm-template-listing_five .elementor-testimonials-carousel .stm-swiper-controls .stm-swiper-prev,
+.stm-template-listing_five .elementor-testimonials-carousel .stm-swiper-controls .stm-swiper-next {
+    display: inline-block;
+}
+
+.stm-template-listing_five .elementor-testimonials-carousel .stm-swiper-controls .stm-swiper-prev:hover,
+.stm-template-listing_five .elementor-testimonials-carousel .stm-swiper-controls .stm-swiper-next:hover {
+    color: #1a2c33;
+}
+
+.stm-template-listing_five .elementor-testimonials-carousel .stm-swiper-controls .stm-swiper-prev:after,
+.stm-template-listing_five .elementor-testimonials-carousel .stm-swiper-controls .stm-swiper-next:after {
+    font-size: 26px;
+}
+
+.stm-template-listing_five .elementor-testimonials-carousel .stm-swiper-controls .stm-swiper-prev {
+    padding-right: 15px;
+}
+
+.stm-template-listing_five .elementor-testimonials-carousel .stm-swiper-controls .stm-swiper-next {
+    padding-left: 15px;
+}
+
+.stm-template-motorcycle .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit {
+    padding-bottom: 30px;
+    position: relative;
+}
+
+@media (max-width: 991px) {
+    .stm-template-motorcycle .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .image {
+        margin-right: 20px !important;
+    }
+}
+
+.stm-template-motorcycle .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .testimonial-meta .author {
+    font-weight: 900;
+}
+
+.stm-template-motorcycle .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .testimonial-meta .author-car {
+    color: #4c4f51;
+}
+
+.stm-template-motorcycle .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .testimonial-meta .author-car i {
+    color: #4c4f51;
+}
+
+.stm-template-motorcycle .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .stm-swiper-controls .stm-swiper-prev,
+.stm-template-motorcycle .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .stm-swiper-controls .stm-swiper-next {
+    color: #4c4f51;
+}
+
+.stm-template-car_rental .stm-testimonials-carousel-wrapper {
+    margin: 0 -15px 51px;
+}
+
+.stm-template-car_rental .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit {
+    padding: 0 15px;
+}
+
+.stm-template-car_rental .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit > .clearfix {
+    padding: 30px 35px 58px;
+    border: 1px dashed #bec5c7;
+}
+
+.stm-template-car_rental .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .image {
+    margin: 0 0 20px;
+    float: none;
+    text-align: center;
+}
+
+.stm-template-car_rental .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .image img {
+    display: inline-block;
+    width: auto;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+@media (max-width: 1025px) {
+    .stm-template-car_rental .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .image {
+        max-width: 100%;
+        margin: 0 0 20px !important;
+    }
+}
+
+.stm-template-car_rental .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .testimonial-info .author {
+    font-size: 18px;
+    text-align: center;
+    color: #343743;
+}
+
+.stm-template-car_rental .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .testimonial-info .author-car {
+    text-align: center;
+}
+
+.stm-template-car_rental .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .testimonial-unit .content {
+    margin: 9px -5px 0;
+    padding: 0 10px;
+    text-align: center;
+    color: #888;
+    line-height: 20px;
+    font-size: 13px;
+}
+
+.stm-template-car_rental .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .stm-swiper-controls {
+    margin: 43px 0 0;
+}
+
+@media (max-width: 600px) {
+    .stm-template-car_dealer_two .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel {
+        max-width: 100%;
+    }
+
+    .stm-template-car_dealer_two .stm-testimonials-carousel-wrapper .elementor-testimonials-carousel .stm-swiper-controls {
+        display: none;
+    }
+
+    .stm-template-car_dealer_two .stm-testimonials-carousel-wrapper.style_2 .testimonial-unit .clearfix .content {
+        max-width: 95%;
+    }
+}

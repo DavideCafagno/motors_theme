@@ -1,0 +1,51 @@
+.stm-mt-icon-counter {
+    color: #ffffff;
+}
+
+.stm-mt-icon-counter__wrapper {
+    display: flex;
+}
+
+.stm-mt-icon-counter .stm-mt-icon-counter-left {
+    margin-right: 15px;
+}
+
+.stm-mt-icon-counter .stm-mt-icon-counter-left i {
+    font-size: 56px;
+}
+
+.stm-mt-icon-counter .stm-counter-meta {
+    overflow: hidden;
+}
+
+.stm-mt-icon-counter .stm-counter-meta .stm-value-wrapper {
+    font-size: 45px;
+    color: #ffffff;
+    font-weight: 700;
+    line-height: 1;
+    display: flex;
+    white-space: pre-wrap;
+}
+
+.stm-mt-icon-counter .stm-counter-meta .stm-label {
+    text-transform: uppercase;
+    line-height: 1;
+    display: flex;
+}
+
+@media (min-width: 768px) {
+    .stm-mt-icon-counter .stm-counter-meta {
+        flex: 1;
+    }
+}
+
+@media (max-width: 767px) {
+    .stm-mt-icon-counter__wrapper {
+        justify-content: center;
+    }
+
+    .stm-mt-icon-counter .stm-mt-icon-counter-left {
+        float: none;
+        margin-bottom: 10px;
+    }
+}

@@ -1,0 +1,7 @@
+.elementor-element-edit-mode .stm_auto_loan_calculator_wrap .stm_auto_loan_calculator.novo .stm_calculator_results {
+    flex-direction: column;
+}
+
+.stm_auto_loan_calculator .form-group .labeled > span {
+    color: #cc6119;
+}
